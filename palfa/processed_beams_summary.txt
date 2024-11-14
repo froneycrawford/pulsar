@@ -1,0 +1,28 @@
+The output file for the single pulse plot list is:
+single_pulse_list.dat
+The output file for the processed header list is:
+processed_beams_list.dat
+
+The PALFA dir is: 
+/data/palfa
+
+The date is:
+20101006
+
+Total number of processed beams:
+7533
+Number of processed p1944 precursor beams:
+218
+Number of processed p2030 diagnostic beams (known pulsars, labeled B or J):
+284
+Number of processed p2030 survey beams (labeled G):
+7031 (4.73832% of total survey)
+
+Total number of single pulse plots produced:
+7656
+Number of single pulse plots marked as viewed:
+7656
+Number of single pulse plots with a rating:
+7656
+
+Done.

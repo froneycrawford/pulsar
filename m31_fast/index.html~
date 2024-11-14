@@ -1,0 +1,139 @@
+<title>FAST Pulsar and Transient Search of the M31 Bulge</title>
+
+<link rel="stylesheet" href="../pulsars.css" type="text/css">
+
+<h1>FAST Pulsar and Transient Search of the M31 Bulge</h1>  
+
+<p>
+
+We are searching the bulge of the Andromeda Galaxy (M31) with the
+<a href=https://fast.bao.ac.cn/>Five-hundred-meter Aperture Spherical
+Telescope (FAST)</a>.  HEINDALL and FETCH are used to search for
+single pulses and bursts.  PRESTO is used for the periodicity search.
+
+<p>
+
+This research has used the Franklin and Marshall College compute cluster which was
+funded through NSF grant 1925192.
+
+
+<p> 
+
+<font size=2>
+
+<b>Project Participants</b>
+
+<li> Fronefield Crawford (F&M)
+<li> Natalia Lewandowska (Swarthmore) 
+<li> Maura McLaughlin (WVU)
+<li> Duncan Lorimer (WVU)
+<li> Jim Cordes (Cornell)
+<li> Shami Chatterjee (Cornell)
+<li> Pei Wang (Chinese Academy of Sciences) 
+<li> Shinnosuke Hisano (Kumamoto University) 
+ 
+<p>
+
+<p>
+
+<b>Data Files and Results</b>
+
+<p>
+
+<font size=+0>
+
+<pre>
+  <b>Source: PSR B0136+57</b> (P=272.49 ms, DM=73.8)
+
+  Obs Date:   20211207 (MJD 59555)
+  FITS Files: B0136+57_tracking-M01_[0001,0139].fits
+  FIL File:   B0136+57_tracking-M01_20211207.fil
+  Obs Length: 1781 sec 
+
+  Processing Results: 
+  * RFI: <a href=./B0136+57_tracking-M01_20211207_rfifind.png>mask plot</a> 
+  * prepfold direct fold: <a href=./B0136+57_tracking-M01_20211207_PSR_0136+57.pfd.png>B0136+57 detection (sigma=9400)</a>
+  * presto perodicity search (no acceleration, DM_max 2000): <a href=./B0136+57_tracking-M01_20211207_DM80.15_ACCEL_Cand_1.pfd.png>B0136+57 detection (sigma=7755)</a>
+  * presto perodicity search (zmax 1200, DM_max 2000): <a href=./B0136+57_tracking-M01_20211207_DM86.70_ACCEL_1200_ACCEL_Cand_1.pfd.png>B0136+57 detection (sigma=9546)</a> 
+  * presto single pulse search (DM vs time, 20 sec window, DM_max 2000): <a href=./B0136+57_20211207_1000-1020s_singlepulse.png>B0136+57 detection</a> 
+  * heimdall/fetch single pulse search (max boxcar 512, DM_max 10000): <a href=./cand_tstart_59555.601261574076_tcand_883.0270000_dm_73.27090_snr_505.28500.png>B0136+57 detection</a> (there were 2394 pulses with p > 90%)
+  * riptide FFA search:
+
+  
+  <b>Source: PSR B0136+57</b> (P=272.49 ms, DM=73.8)
+
+  Obs Date:   20211216 (MJD 59564)
+  FITS Files: B0136+57_tracking-M01_[0001,0139].fits
+  FIL File:   B0136+57_tracking-M01_20211216.fil
+  Obs Length: 1781 s
+
+  Processing Results: 
+  * RFI: <a href=./B0136+57_tracking-M01_20211216_rfifind.png>mask plot</a>
+  * prepfold direct fold: <a href=./B0136+57_tracking-M01_20211207_PSR_0136+57.pfd.png>B0136+57 detection (sigma=6821)</a>
+  * presto perodicity search (no acceleration, DM_max 2000): <a href=./B0136+57_tracking-M01_20211216_DM75.05_ACCEL_Cand_1.pfd.png>B0136+57 detection (sigma=5773)</a>
+  * presto perodicity search (zmax 1200, DM_max 2000): <a href=./B0136+57_tracking-M01_20211216_DM75.10_ACCEL_1200_ACCEL_Cand_1.pfd.png>B0136+57 detection (sigma=5630)</a> 
+  * presto single pulse search (DM vs time, 20 sec window, DM_max 2000): <a href=./B0136+57_20211216_1000-1020s_singlepulse.png>B0136+57 detection</a>
+  * heimdall/fetch single pulse search (max boxcar 512, DM_max 10000): <a href=./cand_tstart_59564.570833333331_tcand_493.8600000_dm_73.90740_snr_442.47700.png>B0136+57 detection</a> (there were 3496 pulses with p > 90%)
+  * riptide FFA search:
+
+
+  <b>Source: M31</b>
+
+  Obs Date:   20211207 (MJD 59555) 
+  FITS Files: M31_snapshot-M01_[0001,0607].fits
+  FIL File:   M31_snapshot-M01_20211207.fil 
+  Obs Length: 7821 s
+
+  Processing Results:
+  * RFI: <a href=./M31_snapshot-M01_20211207_rfifind.png>mask plot</a>
+  * presto perodicity search (no acceleration, DM_max 2000): <b>no candidates above prepfold sigma 5.0</b>
+  * presto perodicity search (zmax 1200, DM_max 2000): <a href=./save.20211207.z1200.sn5/>9 candidates above prepfold sigma 5.0</a> 
+  * presto chunk processing (zmax 1200, DM_max 2000, prep sigma above 6, min chunk of 600 s): <b>no candidates</b> 
+  * presto single pulse search (plots in 900 sec windows, DM_max 2000): <a href=./presto_sp_m31_20211207/>no good candidates above S/N 6.0</a>
+  * heimdall/fetch single pulse search (max boxcar 512, DM_max 10000): <a href=./cand_tstart_59555.503472222219_tcand_3256.9800000_dm_69.57690_snr_7.15192.png>1 candidate above S/N 7.0 (DM=70, S/N=7.2, p=0.99977976)</a>
+  * riptide FFA search:  
+
+
+  <b>Source: M31</b> 
+
+  Obs Date:   20211216 (MJD 59564)
+  FITS Files: M31_snapshot-M01_[0001,0607].fits
+  FIL File:   M31_snapshot-M01_20211216.fil
+  Obs Length: 7821 s
+
+  Processing Results:
+  * RFI: <a href=./M31_snapshot-M01_20211216_rfifind.png>mask plot</a>
+  * presto perodicity search (no acceleration, DM_max 2000): <b>no candidates above prepfold sigma 5.0</b>
+  * presto perodicity search (zmax 1200, DM_max 2000): <a href=./save.20211216.z1200.sn5/>1 candidate above prepfold sigma 5.0</a>
+  * presto chunk processing (zmax 1200, DM_max 2000, prep sigma above 6, min chunk of 600 s): <b>no candidates</b>
+  * presto single pulse search (plots in 900 sec windows, DM_max 2000): <a href=./presto_sp_m31_20211216/>no good candidates above S/N 6.0</a>
+  * heimdall/fetch single pulse search (max boxcar 512, DM_max 10000): <b>no candidates above S/N 7.0</b>
+  * riptide FFA search:  
+
+</pre> 
+
+</font>
+
+
+
+<p>
+
+<p>
+
+
+<p>
+
+Below: (left) Image of M31 with the search region indicated by
+the green circle, and (right) the FAST telescope (image credit: Ou
+Dongqu/Xinhua/ZUMA).
+
+
+<p>
+
+
+
+<img height=276 src=./m31_fast_bulge.jpg>
+
+<img height=256 src=./fast.jpg>
+
+

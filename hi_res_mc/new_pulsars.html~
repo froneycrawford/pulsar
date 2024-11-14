@@ -1,0 +1,67 @@
+<pre>
+*** New Pulsars from Survey ***
+
+Name      P(ms)    DM    Discovery     Original   Published
+
+<a href=./plots/SMC016_003A1_433.42ms_Cand.pfd.png>J0521-68</a>   433    136    SMC016_003A1  (<a href=./plots/Ppsr1.png>Ppsr1</a>)    Ridley et al. (2013)
+<a href=./plots/SMC014_00191_1133.90ms_Cand.pfd.png>J0458-67</a>  1133     97    SMC014_00191  (<a href=./plots/Ppsr2.png>Ppsr2</a>)    Ridley et al. (2013)
+<a href=./plots/SNR002_8_PSR_0535-66.pfd.png>J0535-66</a>   210    715    SNR002_8      (<a href=./plots/Ppsr3.png>Ppsr3</a>)    Ridley et al. (2013)
+<a href=./plots/SMC018_02071_425.19ms_Cand.pfd.png>J0542-68</a>   425    114    SMC018_02071  (<a href=./plots/Ppsr4.png>Ppsr4</a>)    Ridley et al. (2013)
+<a href=./plots/SMC019_01361_117.07ms_Cand.pfd.png>J0456-69</a>   117    103    SMC019_013_06 (<a href=./plots/Ppsr5.png>Ppsr5</a>)    Ridley et al. (2013)
+<a href=./plots/PLMC060c_03_PSR_0457-69.pfd.png>J0457-69</a>   231     91    PLMC060c_03   (<a href=./plots/Ppsr6.png>Ppsr6</a>)    Ridley et al. (2013)
+<a href=./plots/PLMC103b_07_PSR_0532-69.pfd.png>J0532-69</a>  1149    124    PLMC103b_07   (<a href=./plots/Ppsr7.png>Ppsr7</a>)    Ridley et al. (2013)
+<a href=./plots/PLMC104_05_PSR_0537-69.pfd.png>J0537-69</a>   112    273    PLMC104_05    (<a href=./plots/Ppsr8.png>Ppsr8</a>)    Ridley et al. (2013)
+<a href=plots/PLMC147_13_790.54ms_Cand.pfd.png>J0556-67</a>   791     71    PLMC147_13    (<a href=./plots/PLMC147_13_cand.029.png>orig</a>)     Hisano et al. (2022) 
+
+
+*** Candidates ***
+
+Shin Confirmations
+
+Cand_Name  P(ms)      DM    Status
+
+J0437-7026 7.74525930 113.6 not confirmed
+J0444-6848 7.06813194 331.3 not confirmed
+J0447-7027 9.60550786 127.2 not confirmed
+J0458-6806 8.22626556  88.4 not confirmed
+J0527-6956 5.94397118 288.8 not confirmed
+
+
+Beam              P(ms)      DM      Prep S/N    Refolds 
+
+<a href=./plots/PLMC053_01_cand.023.png>PLMC053_01</a>         3.2       84       4.5        [<a href=./plots/PLMC053_01_3.20ms_Cand.pfd.png>refold</a>] MSP?
+<a href=./plots/PLMC032_05_cand.076.png>PLMC032_05</a>         3.4       50       4.6        [<a href=./plots/PLMC032_05_3.45ms_Cand.pfd.png>refold</a>] MSP?
+<a href=./plots/PLMC032_02_cand.033.png>PLMC032_02</a>         3.7      248       4.7        [<a href=./plots/PLMC032_02_3.67ms_Cand.pfd.png>refold</a>] MSP?
+<a href=./plots/PLMC103a_13_cand.100.png>PLMC103a_13</a>        4.3      291       4.0        [<a href=./plots/PLMC103a_13_4.33ms_Cand.pfd.png>refold</a>] MSP?
+<a href=./plots/PLMC026_05_cand.032.png>PLMC026_05</a>         4.4      140       4.0        [<a href=./plots/PLMC026_05_4.43ms_Cand.pfd.png>refold</a>] MSP?
+<a href=./plots/PLMC147_13_0.00-0.33_4.77ms_Cand.pfd.png>PLMC147_13</a>         4.8      135       5.9        [<a href=./plots/PLMC147_13_0.00-0.30_4.77ms_Cand.pfd.png>refold</a>] MSP? (fades out after 30% of int)
+<a href=./plots/PLMC057_13_cand.026.png>PLMC057_13</a>         5.6      301       4.2        [<a href=./plots/PLMC057_13_5.57ms_Cand.pfd.png>refold</a>] MSP?
+<a href=./plots/PLMC018_08_DM483.90_ACCEL_Cand_7.pfd.png>PLMC018_08</a>         5.7      484       6.1        [<a href=./plots/PLMC018_08_5.67ms_Cand.pfd.png>refold</a>] MSP? 
+<a href=./plots/PLMC071_03_cand.044.png>PLMC071_03</a>         7.9      459       4.5        [<a href=./plots/PLMC071_03_7.93ms_Cand.pfd.png>refold</a>] MSP?
+<a href=./plots/PLMC074_13_cand.103.png>PLMC074_13</a>         9.7      313       3.5        [<a href=./plots/PLMC074_13_9.69ms_Cand.pfd.png>refold</a>] MSP?
+<a href=./plots/PLMC029_06_cand.029.png>PLMC029_06</a>        11.9      191       3.0        [<a href=./plots/PLMC029_06_11.92ms_Cand.pfd.png>refold</a>] MSP?
+<a href=./plots/PLMC029_03_cand.040.png>PLMC029_03</a>        23.3      357       5.1        [<a href=./plots/PLMC029_03_23.29ms_Cand.pfd.png>refold</a>] MSP?
+
+<a href=./plots/SMC019_019_02.cand.015.png>SMC019_019_02</a>      216       83       7.7        [<a href=./plots/SMC019_01921_216.12ms_Cand.pfd.png>refold</a>]
+<a href=./plots/SMC018_032_05.cand.988.png>SMC018_032_05</a>      225      162       6.5        [<a href=./plots/SMC018_03251_225.17ms_Cand.pfd.png>refold</a>]
+<a href=./plots/SMC018_024_04.cand_485_247.50ms_Cand.pfd.png>SMC018_024_04</a>      247      302       7.1        [<a href=./plots/SMC018_02441_247.55ms_Cand.pfd.png>refold</a>]
+<a href=./plots/SMC014_005C1.cand.817.png>SMC014_005C1</a>       256      105       7.6        [<a href=./plots/SMC014_005C1_256.19ms_Cand.pfd.png>refold</a>]
+<a href=./plots/SMC018_002D1.cand.339.png>SMC018_002D1</a>       308       49       8.5        [<a href=./plots/SMC018_002D1_308.01ms_Cand.pfd.png>refold</a>]
+<a href=./plots/SMC019_023A1.cand.033.png>SMC019_023A1</a>       342       54       9.0        [<a href=./plots/SMC019_023A1_342.31ms_Cand.pfd.png>refold</a>]
+<a href=./plots/SMC019_00831.cand.172.png>SMC019_00831</a>       376       60       8.2        [<a href=./plots/SMC019_00831_376.56ms_Cand.pfd.png>refold</a>]
+<a href=./plots/SMC018_00721.cand.004.png>SMC018_00721</a>       384       48       8.1        [<a href=./plots/SMC018_00721_384.70ms_Cand.pfd.png>refold</a>]
+<a href=./plots/SMC017_03921.cand.008.png>SMC017_03921</a>       642      176       9.1        [<a href=./plots/SMC017_03921_642.13ms_Cand.pfd.png>refold</a>]
+
+
+*** Redetections of Pulsars Known Prior to Survey ***
+
+Beam              P(ms)     DM      Prep S/N    Known Pulsar          Refolds 
+
+<a href=./plots/PLMC076_08.cand.005.png>PLMC076_08</a>         533      67      22.5        B0456-69 harmonic     [<a href=./plots/PLMC076_08_534.00ms_Cand.pfd.png>refold</a>]
+<a href=./plots/PLMC058_13.cand.026.png>PLMC058_13</a>         320      97       8.8        B0456-69              [<a href=./plots/PLMC058_13_PSR_0456-69.pfd.png>refold</a>]
+<a href=./plots/PLMC073_12.cand.039.png>PLMC073_12</a>         674     135       9.6        J0522-6847            [<a href=./plots/PLMC073_12_674.58ms_Cand.pfd.png>refold</a>] 
+<a href=./plots/PLMC074_06.cand.035.png>PLMC074_06</a>         263     121       9.9        J0519-6932            [<a href=./plots/PLMC074_06_263.23ms_Cand.pfd.png>refold</a>]
+<a href=./plots/PLMC075b_06.cand.017.png>PLMC075b_06</a>         87     119       8.1        J0519-6932 harmonic   [<a href=./plots/PLMC075b_06_87.74ms_Cand.pfd.png>refold</a>] 
+<a href=./plots/PLMC103b_05_cand.000.cleaned.png>PLMC103b_05</a>        ---     150      14          B0540-69 single         --- 
+
+</pre> 

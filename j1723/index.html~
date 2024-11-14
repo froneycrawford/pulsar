@@ -1,0 +1,207 @@
+<title>PSR J1723-28 Timing</title>
+
+<h1>PSR J1723-28 Timing</h1>  
+
+<p>
+
+<b>Observing Sessions:</b>
+
+<p>
+
+<table border=1 align=left width=100%>
+
+<td> <b>Date</b> <td> <b>Start Time</b> <td> <b>Telescope</b> <td> <b>Frequency</b> <td> <b>Backend</b> <td> <b>Obs Length</b> <td> <b>File</b> <td> <b>Notes</b> <tr>
+
+<td> 2001/03/05 <td> 51973.7164 <td> Parkes <td> 1374 MHz <td> filterbank <td> 2100 sec (35.0 min) <td> PM0137_038_11.pkmb <td> <a href=./PM0137_038_11_1.86ms_Cand.pfd.png>strong detection</a> <tr> 
+
+<td> 2003/07/02 <td> 52822.3966 <td> Parkes <td> 1374 MHz <td> filterbank <td> 360 sec (6.0 min)   <td> PT0176_090.pkmb <td> <a href=./PT0176_090_topo_1.86ms_Cand.pfd.jpg>weak detection?</a> <tr> 
+
+<td> 2003/07/03 <td> 52823.5352 <td> Parkes <td> 1390 MHz <td> filterbank <td> 720 sec (12.0 min)  <td> PT0176_139.pkmb <td> no detection <tr>
+
+<td> 2003/07/04 <td> 52824.5808 <td> Parkes <td> 1390 MHz <td> filterbank <td> 1800 sec (30.0 min) <td> PT0178_030.pkmb <td> no detection <tr>
+
+<td> 2003/08/06 <td> 52857.2941 <td> Parkes <td> 1374 MHz <td> filterbank <td> 360 sec (6.0 min)   <td> PT0183_004.pkmb <td> no detection <tr>
+
+<td> 2003/08/08 <td> 52859.2572 <td> Parkes <td> 1374 MHz <td> filterbank <td> 360 sec (6.0 min)   <td> PT0183_046.pkmb <td> no detection <tr>
+
+<td> 2003/08/12 <td> 52863.5880 <td> Parkes <td> 1374 MHz <td> filterbank <td> 360 sec (6.0 min)   <td> PT0183_270.pkmb <td> no detection <tr>
+
+<td> 2003/12/08 <td> 52981.1847 <td> Parkes <td> 648 MHz  <td> filterbank <td> 1336 sec (22.3 min) <td> PT0190_025.pkmb <td> no detection <tr>
+
+<td> 2004/02/14 <td> 53049.8480 <td> Parkes <td> 1390 MHz <td> filterbank <td> 2100 sec (35.0 min) <td> PT0198_017.pkmb <td> no detection <tr>
+
+<td> 2004/02/20 <td> 53055.8053 <td> Parkes <td> 1390 MHz <td> filterbank <td> 2100 sec (35.0 min) <td> PT0201_069.pkmb <td> <a href=./PT0201_069_1.86ms_Cand.pfd.png>weak detection</a> <tr> 
+
+<td> 2004/02/29 <td> 53063.9731 <td> Parkes <td> 1390 MHz <td> filterbank <td> 2100 sec (35.0 min) <td> PT0204_047.pkmb <td> no detection <tr>
+
+<td> 2004/03/08 <td> 53072.8135 <td> Parkes <td> 1390 MHz <td> filterbank <td> 2100 sec (35.0 min) <td> PT0206_047.pkmb <td> no detection <tr>
+
+<td> 2004/03/08 <td> 53072.8846 <td> Parkes <td> 1390 MHz <td> filterbank <td> 2100 sec (35.0 min) <td> PT0206_051.pkmb <td> no detection <tr>
+
+<td> 2004/03/09 <td> 53072.9586 <td> Parkes <td> 1390 MHz <td> filterbank <td> 2100 sec (35.0 min) <td> PT0206_059.pkmb <td> no detection <tr>
+
+<td> 2004/03/09 <td> 53073.0255 <td> Parkes <td> 1390 MHz <td> filterbank <td> 1257 sec (20.9 min) <td> PT0206_066.pkmb <td> no detection <tr>  
+
+<td> 2004/03/11 <td> 53075.7609 <td> Parkes <td> 648 MHz  <td> filterbank <td> 1800 sec (30.0 min) <td> PT0208_0612.fil <td> no detection <tr> 
+
+<td> 2004/03/11 <td> 53075.7609 <td> Parkes <td> 3030 MHz <td> filterbank <td> 1800 sec (30.0 min) <td> PT0208_0611.fil <td> no detection <tr>
+
+<td> 2004/03/13 <td> 53077.6424 <td> Parkes <td> 1390 MHz <td> filterbank <td> 2100 sec (35.0 min) <td> PT0210_008.pkmb <td> no detection <tr>
+
+<td> 2004/05/26 <td> 53151.5395 <td> Parkes <td> 1390 MHz <td> filterbank <td> 2100 sec (35.0 min) <td> PT0218_037.pkmb <td> no detection <tr>
+
+<td> 2004/06/27 <td> 53183.4412 <td> Parkes <td> 1518 MHz <td> filterbank <td> 2025 sec (33.7 min) <td> PT0221_058.pkmb <td> no detection <tr>
+
+<td> 2004/07/04 <td> 53190.6648 <td> Parkes <td> 1518 MHz <td> filterbank <td> 2000 sec (33.3 min) <td> PT0223_059.pkmb <td> <a href=./PT0223_059_topo_PSR_1723-2839.pfd.jpg>detection</a> <tr> 
+
+<td> 2004/07/06 <td> 53192.6434 <td> Parkes <td> 1518 MHz <td> filterbank <td> 2000 sec (33.3 min) <td> PT0224_028.pkmb <td> no detection <tr>
+
+<td> 2004/07/06 <td> 53194.5863 <td> Parkes <td> 1518 MHz <td> filterbank <td> 2000 sec (33.3 min) <td> PT0225_011.pkmb <td> no detection <tr>
+
+<td> 2004/08/04 <td> 53221.3504 <td> Parkes <td> 1518 MHz <td> filterbank <td> 2000 sec (33.3 min) <td> PT0227_015.pkmb <td> <a href=./PT0227_015_topo_PSR_1723-2839.pfd.jpg>strong detection</a> <tr>
+
+<td> 2004/08/23 <td> 53240.2918 <td> Parkes <td> 1518 MHz <td> filterbank <td> 2000 sec (33.3 min) <td> PT0228_135.pkmb <td> <a href=./PT0228_135_topo_PSR_1723-2839.pfd.jpg>weak detection</a> <tr> 
+
+<td> 2004/09/30 <td> 53278.1934 <td> Parkes <td> 1374 MHz <td> filterbank <td> 2000 sec (33.3 min) <td> PT0232_077.pkmb <td> no detection <tr>
+
+<td> 2009/06/06 <td> 54988.6935 <td> Parkes <td> 1374 MHz <td> filterbank <td> 3600 sec (1.0 hr) <td> PT0315_0371.fil <td> no detection <tr>
+
+<td> 2009/06/06 <td> 54988.6935 <td> Parkes <td> 1382 MHz <td> BPSR <td> 630 sec (10.5 min) <td> 2009-06-06-07:58:32.fil <td> no detection <tr>
+
+<td> 2009/06/23 <td> 55005.2246 <td> GBT <td> 820 MHz <td> GUPPI <td> 11953 sec (3.3 hr) <td> guppi_55005_1723-28_0010_[0001,0223].fits <td> no detection <tr>
+
+<td> 2009/07/12 <td> 55024.1875 <td> GBT <td> 350 MHz <td> GUPPI <td> 2287 sec (38.1 min) <td> guppi_55024_1723-28_0002_[0001,0015].fits <td> no detection <tr>
+
+<td> 2009/07/15 <td> 55027.2012 <td> GBT <td> 2000 MHz <td> GUPPI <td> 180 sec (3.0 min) <td> guppi_55027_J1723-28_0_0001_[0001,0004].fits <td> <a href=guppi_55027_J1723-28_0_0001_PSR_1723-28.pfd.png>weak detection?</a> <tr>
+
+<td> 2009/07/15 <td> 55027.2254 <td> GBT <td> 2000 MHz <td> GUPPI <td> 180 sec (3.0 min) <td> guppi_55027_J1723-28_0_0002_[0001,0004].fits <td> no detection <tr>
+
+<td> 2009/07/15 <td> 55027.2048 <td> GBT <td> 2000 MHz <td> GUPPI <td> 180 sec (3.0 min) <td> guppi_55027_J1723-28_1_0001_[0001,0004].fits <td> no detection <tr>
+
+<td> 2009/07/15 <td> 55027.2280 <td> GBT <td> 2000 MHz <td> GUPPI <td> 180 sec (3.0 min) <td> guppi_55027_J1723-28_1_0003_[0001,0004].fits <td> no detection <tr>
+
+<td> 2009/07/15 <td> 55027.2444 <td> GBT <td> 2000 MHz <td> GUPPI <td> 483 sec (8.1 min) <td> guppi_55027_J1723-28_1_0004_[0001,0018].fits <td> no detection <tr>
+
+<td> 2009/07/15 <td> 55027.2079 <td> GBT <td> 2000 MHz <td> GUPPI <td> 180 sec (3.0 min) <td> guppi_55027_J1723-28_2_0001_[0001,0004].fits <td> no detection <tr>
+
+<td> 2009/07/15 <td> 55027.2306 <td> GBT <td> 2000 MHz <td> GUPPI <td> 180 sec (3.0 min) <td> guppi_55027_J1723-28_2_0003_[0001,0004].fits <td> no detection <tr>
+
+<td> 2009/07/15 <td> 55027.2108 <td> GBT <td> 2000 MHz <td> GUPPI <td> 180 sec (3.0 min) <td> guppi_55027_J1723-28_3_0001_[0001,0004].fits <td> no detection <tr>
+
+<td> 2009/07/15 <td> 55027.2333 <td> GBT <td> 2000 MHz <td> GUPPI <td> 180 sec (3.0 min) <td> guppi_55027_J1723-28_3_0003_[0001,0004].fits <td> no detection <tr>
+
+<td> 2009/07/15 <td> 55027.2137 <td> GBT <td> 2000 MHz <td> GUPPI <td> 180 sec (3.0 min) <td> guppi_55027_J1723-28_4_0001_[0001,0004].fits <td> no detection <tr>
+
+<td> 2009/07/15 <td> 55027.2358 <td> GBT <td> 2000 MHz <td> GUPPI <td> 180 sec (3.0 min) <td> guppi_55027_J1723-28_4_0003_[0001,0004].fits <td> no detection <tr>
+
+<td> 2009/07/15 <td> 55027.2174 <td> GBT <td> 2000 MHz <td> GUPPI <td> 180 sec (3.0 min) <td> guppi_55027_J1723-28_5_0001_[0001,0004].fits <td> no detection <tr>
+
+<td> 2009/07/15 <td> 55027.2383 <td> GBT <td> 2000 MHz <td> GUPPI <td> 180 sec (3.0 min) <td> guppi_55027_J1723-28_5_0003_[0001,0004].fits <td> no detection <tr>
+
+<td> 2009/07/15 <td> 55027.2217 <td> GBT <td> 2000 MHz <td> GUPPI <td> 180 sec (3.0 min) <td> guppi_55027_J1723-28_6_0001_[0001,0004].fits <td> no detection <tr>
+
+<td> 2009/07/15 <td> 55027.2413 <td> GBT <td> 2000 MHz <td> GUPPI <td> 180 sec (3.0 min) <td> guppi_55027_J1723-28_6_0003_[0001,0004].fits <td> no detection <tr>
+
+<td> 2009/09/02 <td> 55076.9765 <td> GBT <td> 350 MHz <td> GUPPI <td> 10984 sec (3.1 hr) <td> guppi_55076_1723-28_0002_[0001,0018].fits <td> no detection <tr>
+
+<td> 2009/09/27 <td> 55101.8705 <td> GBT <td> 2000 MHz <td> GUPPI <td> 1800 sec (30 min) <td> guppi_55101_J1723-28_0_0002_[0001,0006].fits <td> <a href=./guppi_55101_J1723-28_0_0002_topo_1.86ms_Cand.pfd.png>detection</a> <tr>
+
+<td> 2009/09/27 <td> 55101.8924 <td> GBT <td> 2000 MHz <td> GUPPI <td> 1800 sec (30 min) <td> guppi_55101_J1723-28_1_0003_[0001,0006].fits <td> <a href=./guppi_55101_J1723-28_1_0003_topo_1.86ms_Cand.pfd.png>strong detection</a> <tr>
+
+<td> 2009/09/27 <td> 55101.9137 <td> GBT <td> 2000 MHz <td> GUPPI <td> 1800 sec (30 min) <td> guppi_55101_J1723-28_2_0004_[0001,0006].fits <td> no detection <tr>
+
+<td> 2009/09/27 <td> 55101.9350 <td> GBT <td> 2000 MHz <td> GUPPI <td> 1800 sec (30 min) <td> guppi_55101_J1723-28_3_0005_[0001,0006].fits <td> no detection <tr>
+
+<td> 2009/09/27 <td> 55101.9563 <td> GBT <td> 2000 MHz <td> GUPPI <td> 1800 sec (30 min) <td> guppi_55101_J1723-28_4_0006_[0001,0006].fits <td> no detection <tr>
+
+<td> 2009/09/27 <td> 55101.9777 <td> GBT <td> 2000 MHz <td> GUPPI <td> 1800 sec (30 min) <td> guppi_55101_J1723-28_5_0007_[0001,0006].fits <td> <a href=./guppi_55101_J1723-28_5_0007_topo_1.86ms_Cand.pfd.png>detection</a> <tr>
+
+<td> 2009/09/27 <td> 55101.9990 <td> GBT <td> 2000 MHz <td> GUPPI <td> 1800 sec (30 min) <td> guppi_55101_J1723-28_6_0008_[0001,0006].fits <td> <a href=./guppi_55101_J1723-28_6_0008_topo_1.86ms_Cand.pfd.png>strong detection</a> <tr>
+
+<td> 2009/09/27 <td> 55102.0204 <td> GBT <td> 2000 MHz <td> GUPPI <td> 1800 sec (30 min) <td> guppi_55102_J1723-28_0_0009_[0001,0006].fits <td> <a href=./guppi_55102_J1723-28_0_0009_topo_1.86ms_Cand.pfd.png>strong detection</a> <tr>
+
+<td> 2009/10/13 <td> 55117.9875 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 738 sec (12.3 min) <td> guppi_55117_PSR1723-28_0196_[0001,0022].fits <td> no detection <tr> 
+
+<td> 2009/10/14 <td> 55118.0460 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 1544 sec (25.7 min) <td> guppi_55118_PSR1723-28_0197_[0001,0046].fits <td> no detection <tr> 
+
+<td> 2009/10/15 <td> 55119.7465 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 1275 sec (21.2 min) <td> guppi_55119_PSR1723-28_0201_[0001,0038].fits <td> no detection <tr> 
+
+<td> 2009/10/17 <td> 55121.7328 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 8154 sec (2.3 hr) <td> guppi_55121_PSR1723-28_0203_[0001,0243].fits <td> no detection  <tr> 
+
+<td> 2009/10/18 <td> 55122.7987 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 8187 sec (2.3 hr) <td> guppi_55122_PSR1723-28_0208_[0001,0244].fits <td> no detection <tr>
+
+<td> 2009/10/21 <td> 55125.6843 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 9697 sec (2.7 hr) <td> guppi_55125_PSR1723-28_0209_[0001,0289].fits <td> no detection <tr> 
+
+<td> 2009/10/24 <td> 55128.6882 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 9295 sec (2.6 hr) <td> guppi_55128_PSR1723-28_0216_[0001,0277].fits <td> no detection <tr>
+
+<td> 2009/10/29 <td> 55133.8745 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 6543 sec (1.8 hr) <td> wuppi_55133_PSR1723-28_270_[0001,0195].fits <td> no detection <tr>
+
+<td> 2009/10/29 <td> 55133.9502 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 6543 sec (1.8 hr) <td> wuppi_55133_PSR1723-28_270_[0196,0390].fits <td> no detection <tr>
+
+<td> 2009/11/03 <td> 55138.9239 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 8991 sec (2.5 hr) <td> guppi_55138_PSR1723-28_0289_[0001,0268].fits <td> no detection <tr> 
+
+<td> 2009/11/07 <td> 55142.6806 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 10033 sec (2.8 hr) <td> guppi_55142_PSR1723-28_0294_[0001,0299].fits <td> no detection <tr>
+
+<td> 2009/11/07 <td> 55142.7967 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 4367
+sec (1.2 hr) <td> guppi_55142_PSR1723-28_0294_[0300,0430].fits <td> no detection <tr>
+
+<td> 2009/11/08 <td> 55143.7059 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 10033 sec (2.8 hr) <td> guppi_55143_PSR1723-28_0295_[0001,0299].fits <td> no detection <tr>
+
+<td> 2009/11/08 <td> 55143.8220 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 10066 sec (2.8 hr) <td> guppi_55143_PSR1723-28_0295_[0300,0599].fits <td> no detection <tr>
+
+<td> 2009/11/08 <td> 55143.9385 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 1443 sec (24 min) <td> guppi_55143_PSR1723-28_0295_[0600,0642].fits <td> no detection <tr>
+
+<td> 2009/11/22 <td> 55157.7374 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 10066 sec (2.8 hr) <td> guppi_55157_PSR1723-28_0313_[0001,0300].fits <td> no detection <tr> 
+
+<td> 2009/11/25 <td> 55160.8609 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 7000 sec (1.9 hr) <td> wuppi_55160_PSR1723-28_345_[0001,0209].fits <td> no detection <tr>
+
+<td> 2009/11/27 <td> 55162.7712 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 10033 sec (2.8 hr) <td> wuppi_55162_PSR1723-28_349_[0001,0299].fits <td> no detection <tr>
+
+<td> 2009/11/27 <td> 55162.8874 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 4967 sec (1.4 hr) <td> wuppi_55162_PSR1723-28_349_[0300,0448].fits <td> no detection <tr>
+
+<td> 2009/12/04 <td> 55169.6400 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 3600 sec (1.0 hr) <td> wuppi_55169_PSR1723-28_361_[0000,0108].fits <td> no detection <tr>
+
+<td> 2009/12/06 <td> 55171.6179 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 9395 sec (2.6 hr) <td> wuppi_55171_PSR1723-28_362_[0000,0280].fits <td> no detection <tr> 
+
+<td> 2009/12/22 <td> 55187.6621 <td> 140ft <td> 1200 MHz <td> WUPPI <td> 1800 sec (30 min) <td> wuppi_55187_PSR1723-28_0395_[0001,0054].fits <td> no detection <tr>
+
+<td> 2010/2/19 <td> 55246.5297 <td> GBT <td> 2000 MHz <td> GUPPI <td> 3754 sec (1.0 hr) <td> guppi_55246_J1723-28_0002_[0001,0012].fits <td> <a href=./guppi_55246_J1723-28_0002_PSR_1723-28.pfd.png>strong detection</a> <tr>
+
+<td> 2010/2/20 <td> 55247.5007 <td> GBT <td> 2000 MHz <td> GUPPI <td> 2637 sec (44 min) <td> guppi_55247_J1723-28_0002_[0001,0008].fits <td> 
+<a href=./guppi_55247_J1723-28_0002_PSR_1723-28.pfd.png>weak detection</a> <tr>
+
+<td> 2010/2/21 <td> 55248.5292 <td> GBT <td> 2000 MHz <td> GUPPI <td> 3708 sec (1.0 hr)  <td> guppi_55248_J1723-28_0002_[0001,0012].fits  <td> <a
+href=guppi_55248_J1723-28_0002_PSR_1723-28.pfd.png>strong detection</a> <tr>
+
+<td> 2010/2/23 <td> 55250.5127 <td> GBT <td> 2000 MHz <td> GUPPI <td> 4290 sec (1.2 hr) <td> 
+guppi_55250_J1723-28_0002_[0001,0013].fits <td> <a href=./guppi_55250_J1723-28_0002_PSR_1723-28.pfd.png>detection</a> <tr>
+
+<td> 2010/3/06 <td> 55261.4979 <td> GBT <td> 2000 MHz <td> GUPPI <td> 3766 sec (1.0 hr) <td>
+guppi_55261_J1723-28_0002_[0001,0012].fits<td> <a href=./guppi_55261_J1723-28_0002_PSR_1723-2839.pfd.png>strong detection</a> <tr>
+
+<td> 2010/3/27 <td> 55282.4589 <td> GBT <td> 2000 MHz <td> GUPPI <td> 3598 sec (1.0 hr) <td>
+guppi_55282_J1723-28_0002_[0001,0011].fits<td> <a href=./guppi_55282_J1723-28_0002_PSR_1723-2839.pfd.png>strong detection</a> <tr>
+
+<td> 2010/4/07 <td> ??? <td> Parkes <td> 3030 MHz? <td> DFB4? <td> ??? <td>
+??? <td> ??? <tr>
+
+<td> 2010/4/10 <td> ??? <td> Parkes <td> 3030 MHz? <td> BPSR? <td> ??? <td>
+??? <td> ??? <tr>
+
+<td> 2010/4/14 <td> ??? <td> Parkes <td> 3030 MHz? <td> BPSR? <td> ??? <td>
+??? <td> ??? <tr>
+
+<td> 2010/4/21 <td> ??? <td> Parkes <td> 3030 MHz? <td> BPSR? <td> ??? <td>
+??? <td> ??? <tr>
+
+<td> 2010/4/26 <td> ??? <td> Parkes <td> 3030 MHz? <td> BPSR? <td> ??? <td>
+??? <td> ??? <tr>
+
+
+
+</table>
+
+<p>
+
+
+

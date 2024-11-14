@@ -1,0 +1,17 @@
+DISK      LOCATION
+
+LMC001    Hackman 422
+LMC002    Hackman 422
+LMC003    Hackman 422
+LMC004    Hackman 422
+LMC005    Hackman 422
+LMC006    Hackman 422
+LMC007    Hackman 422
+LMC008    Hackman 422
+NRAO_06   Hackman 422
+NRAO_07   Hackman 422
+storage3  Hackman 422
+storage4  Hackman 422
+storage5  Hackman 422
+storage6  Hackman 422
+storage7  Hackman 422

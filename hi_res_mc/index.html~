@@ -1,0 +1,166 @@
+<title>High-Resolution Pulsar and Transient Survey of the LMC</title>
+
+<link rel="stylesheet" href="../pulsars.css" type="text/css">
+
+<h1>High-Resolution Pulsar and Transient Survey of the LMC</h1>  
+
+<p>
+
+<b>Scientific Motivation and Goals</b>
+
+<p>
+
+The Parkes high-resolution survey of the LMC for pulsars is motivated by
+several science goals. These goals include:
+
+<p>
+
+
+<font size=2>
+
+<li> Exploring the star formation and environmental differences
+between the LMC and the Milky Way.
+
+<li> Determining the effect of low metallicity on stellar winds from
+non-degenerate pulsar companions.
+
+<li> Obtaining a complete sample of binary radio pulsar systems in the
+LMC.
+
+<li> Discovering new members of different neutron star populations in
+the LMC.
+
+<li> Probing the high end of the pulsar luminosity function.
+
+<p>
+
+<p>
+
+
+<b>Survey Status and Results</b>
+
+<p>
+
+
+<li> Percentage of total survey observed (20171220): 54/136 pointings (39.7%)
+
+<li> Number of new pulsars confirmed (20210217): 5 (from PLMC), 4 (from re-analysis of older data)
+
+<p>
+
+<li>
+<a href=https://docs.google.com/a/fandm.edu/spreadsheets/d/1i1MHr7R4XZn6i7nnGtMsDWMDQhPTmvJRmT54M84gsRc/edit?usp=sharing>LMC
+Master Grid</a>
+
+<li> <a href=./wvutapes_modified.txt>Pointings on Tape and Processing
+Status</a>
+
+<li> <a href=./beam_positions.txt>Beam Positions List</a>
+
+<li> <a href=./disks.txt>Disk Locations</a>
+
+<li> <a href=./new_pulsars.html>New Pulsars and Candidates Found</a>
+
+<li> <a href=./timing_sched_jun2013.txt>Timing Schedule for New Pulsars (as of June 2013)</a>
+
+<p>
+
+<p>
+
+<b>Project Participants</b>
+
+<p>
+
+
+<li> Fronefield Crawford (F&M) 
+<li> Josh Ridley (Murray State) 
+<li> Duncan Lorimer (WVU) 
+<li> Maura McLaughlin (WVU) 
+<li> Shinnosuke Hisano (Kumamoto University) 
+<li> Faisal Alam (F&M '19)
+<li> Tori Bonidie (F&M '20)
+<li> Jack Madden (F&M '14) 
+<li> Kristina Rolph (F&M '15) 
+<li> Demi St. John (Murray State)
+
+<p> 
+
+<p>
+
+
+<b>Publications and Presentations</b>
+
+<p>
+
+<li> <a href=https://ui.adsabs.harvard.edu/abs/2022ApJ...930...38W/>"Discovery 
+of PSR J0523-7125 as a Circularly Polarized Variable Radio Source in the Large Magellanic Cloud"</a>, by Y. Wang et al.,
+Astrophysical Journal, 930, 38 (2022)
+
+<li> <a href=https://ui.adsabs.harvard.edu/abs/2022ApJ...928..161H/abstract>"A Parkes `Murriyang' Search for Pulsars and 
+Transients in the Large Magellanic Cloud"</a>, by S. Hisano et al.,
+Astrophysical Journal, accepted
+
+<p>
+
+<li> <a href=http://adsabs.harvard.edu/abs/2018AAS...23133305C>"Status 
+of a Parkes Survey of the Large Magellanic Cloud for
+Millisecond Pulsars and Transients"</a>, by F. Crawford et al., American
+Astronomical Society Meeting, 231 (2018)
+
+<p>
+
+<li> <a href=http://adsabs.harvard.edu/abs/2016MNRAS.460.3370C>"A
+Search for Highly Dispersed Fast Radio Bursts in Three Parkes
+Multibeam Surveys"</a>, by F. Crawford et al., Monthly Notices of the
+Royal Astronomical Society, 460, 3370 (2016)
+
+<p>
+
+<li>
+<a href=http://meetings.aps.org/Meeting/APR15/Session/B14.9>"Timing of
+Large Magellanic Cloud Pulsars"</a>, by D. St. John & J. Ridley,
+American Physical Society, APS April Meeting 2015, 60, B14.00009
+(2015)
+
+<p>
+
+<li> <a href=http://adsabs.harvard.edu/abs/2013MNRAS.433..138R>"Eight
+New Radio Pulsars in the Large Magellanic Cloud"</a>, by J. Ridley et
+al., Monthly Notices of the Royal Astronomical Society, 433, 138
+(2013)
+
+<p>
+
+<li> <a href=http://adsabs.harvard.edu/abs/2013AAS...22221802R>"New
+Radio Pulsars in the Large Magellanic Cloud"</a>, by J. Ridley et al.,
+American Astronomical Society Meeting, 222, #218.02 (2013)
+
+<p>
+
+<li> <a href=http://adsabs.harvard.edu/abs/2013AAS...22141204C>"A
+Survey for Millisecond Pulsars and Fast Transients in the Large
+Magellanic Cloud"</a>, by F. Crawford et al., American Astronomical
+Society Meeting, 221, #412.04 (2013)
+
+
+<p>
+
+<p>
+
+
+
+
+<p>
+
+<br>
+
+
+Below: Image from <a href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2006ApJ...649..235M&db_key=AST&data_type=HTML&format=&high=44d23f62ee08720>Manchester et al. (2006)</a> showing
+the full survey coverage of the LMC (small red circles).
+The greyscale is the neutral hydrogen distribution in the LMC from
+<a href=http://adsabs.harvard.edu/abs/2003ApJS..148..473K>Kim et al. (2003)</a>. 
+
+<p>
+
+<img src=./fg1b_online.jpg width=600>
+

@@ -1,0 +1,173 @@
+<title>Fast Radio Bursts (FRBs)</title>
+
+<link rel="stylesheet" href="../pulsars.css" type="text/css">
+
+<h1>Fast Radio Bursts (FRBs)</h1>
+
+<p>
+
+Full details and parameters for all currently known FRBs can be found
+in the
+<a href=https://www.herta-experiment.org/frbstats/>HeRTA FRB Catalogue</a>.
+
+<p>
+
+<b> FRB 010724 (the Lorimer Burst) </b>
+
+<p>
+
+F&M was involved in the discovery and analysis of the first of these
+bursts reported, FRB 010724 (the Lorimer Burst), which was found in a
+Parkes survey of the Small Magellanic Cloud.  For scientific details
+about FRB 010724, please consult
+<a href=http://adsabs.harvard.edu/abs/2007Sci...318..777L> "A Bright
+Millisecond Radio Burst of Extragalactic Origin"</a> by D. R. Lorimer
+et al., Science, 318, 777 (2007).
+
+<p>
+
+For a layman's explanation, you can read the media report of the
+discovery in
+<a href=http://www.npr.org/templates/story/story.php?storyId=14778839&ft=1&f=1001><i>Strong
+Extragalactic Radio Burst Poses a Mystery</i></a> at NPR's All Things
+Considered web site (the radio broadcast of the report is also there,
+and you can listen to that).
+
+<p>
+
+<p>
+
+<b> FRB 121102 (aka "The Repeater") </b>
+
+<p>
+
+F&M was also part of the discovery (and redetection) team for FRB
+121102, the only FRB discovered to date with the Arecibo telescope and
+the only one observed so far to repeat its burst emission.  For details about
+FRB 121102, see
+<a href=http://adsabs.harvard.edu/abs/2014ApJ...790..101S>"Fast Radio
+Burst Discovered in the Arecibo Pulsar ALFA Survey"</a> by
+L. G. Spitler et al., Astrophysical Journal, 790, 101 (2014)
+
+<p>
+
+The first followup detection of multiple bursts from the same source
+was published in
+<a href=http://adsabs.harvard.edu/abs/2016Natur.531..202S>"A Repeating
+Fast Radio Burst"</a> by L. G. Spitler et al., Nature, 531, 202
+(2016). On the Nature page there is also a nice audio interview with
+several researchers about this finding and other recent FRB science.
+
+<p>
+
+You can read news coverage of this redetection in several media
+outlets, including
+<a href=http://news.nationalgeographic.com/2016/03/160302-fast-radio-burst-discovery-magnetar-repeated-waves/>National
+Geographic</a>,
+<a href=http://www.scientificamerican.com/article/the-recurring-question-where-do-fast-radio-bursts-come-from/>Scientific
+American</a>,
+<a href=https://www.washingtonpost.com/news/speaking-of-science/wp/2016/03/02/new-paper-adds-a-surprising-twist-to-the-cosmic-hunt-for-fast-radio-bursts/>The
+Washington Post</a>,
+<a href=http://www.usatoday.com/story/tech/2016/03/06/mysterious-repeating-signals-deep-space/81409114/>USA
+Today</a>,
+<a href=http://www.skyandtelescope.com/astronomy-news/mysterious-radio-burst-repeats-itself-03022016/>Sky
+and Telescope</a>,
+<a href=http://www.popsci.com/strange-signals-from-space-repeat-for-first-time>Popular
+Science</a>,
+<a href=http://www.csmonitor.com/Science/2016/0302/Astronomers-detect-repeating-fast-radio-burst.-What-s-causing-it>The
+Christian Science Monitor</a>, and
+<a href=http://www.fandm.edu/news/latest-news/2016/03/02/f-m-astronomer-is-among-the-first-to-detect-repeating-fast-radio-bursts>Franklin
+and Marshall College News</a>.
+
+<p>
+
+Later localization of this burst source using VLA follow-up
+observations was reported in <a href=http://adsabs.harvard.edu/abs/2017Natur.541...58C>"A Direct Localization of a Fast Radio Burst and Its Host"</a> by S. Chatterjee et al., Nature, 541, 58 (2017).
+
+<p>
+
+Single pulse plots from some of the VLA phased-beam follow-up observations of the
+Arecibo FRB field are here:
+
+<ul>
+
+<li> <a href=./frb_vla/>F&M plots produced from filterbank format data</a>
+
+<li> <a href=http://www.physics.mcgill.ca/~patelchi/VLA/>Chitrang's
+McGill plots produced from PSRFITS format data</a>
+
+<li> <a href=./tile_and_psf.jpg>Plot of the VLA beam tiling coverage</a>
+
+</ul>
+
+
+<p>
+
+<p>
+
+
+<b> Four FRBs from the Parkes 70-cm Survey </b>
+
+<p>
+
+F&M found four new FRBs in a reprocesing of the Parkes 70-cm Survey for pulsars. The new FRBs have several distinguishing features. They are wide pulse (all greater than 50 ms in width). They are all hhhhhhhhhhhh
+
+See also the Parkes 70cm Survey page at F&M. 
+
+
+<p>
+
+<p>
+
+
+<b> Plots and Figures </b>
+
+<p>
+
+Below: A plot of the arrival of the (dispersed) Lorimer burst, with
+frequency vs. time shown (inset is the burst after dedispersion):
+
+<p>
+
+<img src=./waterfall1.jpg width=460>
+
+<p>
+
+<br>
+
+Below: The Lorimer burst after dedispersion and channel summing has
+been applied, shown as a function of time (see also the inset of the
+previous image):
+
+<p>
+
+<img src=./impulse1.jpg width=225>
+
+<p>
+
+<br>
+
+Below: Image of the SMC with the location of the Lorimer burst
+indicated (note that we also have a <a href=./smc_map1.jpg>larger
+image with a white background</a>):
+
+<p>
+
+<img src=./smc_map2.jpg width=450>
+
+<p>
+
+<br>
+
+Below: A plot of Arecibo burst FRB 121102.  The burst arrival is shown
+with frequency vs. time plotted (the inset is a plot of the burst
+after dedispersion).
+
+<p>
+
+<img src=./Spitler_frb_tf_inset_color.png width=550>
+
+
+
+
+

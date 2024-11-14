@@ -1,0 +1,12 @@
+From the nanograv wiki, current as of June 1, 2016
+
+P2945 Sources for Arecibo
+
+Command_File     Source_Name RA          Dec          Rise_LST  Set_LST
+
+session0030.cmd  J0030+0451  00:30:27.4  +04:51:39.7  23:32:01  01:29:51
+session1640.cmd  J1640+2224  16:40:16.7  +22:24:08.9  15:17:56  18:02:36
+session1713.cmd  J1713+0747  17:13:49.5  +07:47:37.5  16:05:23  18:22:15
+session2043.cmd  J2043+1711  20:43:20.9  +17:11:28.9  19:20:41  22:05:59
+session2317.cmd  J2317+1439  23:17:09.2  +14:39:31.2  21:56:49  00:38:24
+

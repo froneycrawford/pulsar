@@ -1,0 +1,13 @@
+Human 8-Level Classifications (p2030 survey 'G' files only) 
+Date: 20090909 
+
+TOTAL CANDIDATES            : 232955 (Omit Test Pulsars)
+0 (NULL, Not Classified)    : 172567
+1 (CLASS 1)                 : 1 
+2 (CLASS 2)                 : 87 
+3 (CLASS 3)                 : 0 
+4 (RFI)                     : 45232
+5 (Not A Pulsar)            : 14918
+6 (Known Pulsar)            : 28 
+7 (Harmonic of Known Pulsar): 122 
+

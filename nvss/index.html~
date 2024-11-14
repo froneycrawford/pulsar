@@ -1,0 +1,126 @@
+<title>F&M/NRAO Search of Unidentified Radio Sources</title>
+
+<link rel="stylesheet" href="../pulsars.css" type="text/css">
+
+<h1>F&M/NRAO Search of Unidentified Radio Sources</h1>  
+
+<p>
+
+The original Jodrell Bank search of 92 unidentified sources from the
+NVSS and FIRST surveys was reported in
+<a href=http://adsabs.harvard.edu/abs/2000AJ....119.2376C>"A Search
+for Submillisecond Pulsations in Unidentified FIRST and NVSS Radio
+Sources"</a> by F. Crawford, V. M. Kaspi, and J. F. Bell, Astronomical
+Journal, 119, 2376 (2000).  The search undertaken here with the NRAO
+140-ft telescope is a bit different and employs some software tools as
+well as some observing and computational developments that were not
+available for the previous search.
+
+<p>
+
+Funding for some of the equipment used in this project comes from West
+Virginia EPSCoR and Research Corporation.
+
+<p>
+
+<b>Project and Telescope Info</b>
+
+<p>
+
+<font size=2>
+
+<li> <a href=./source.list>Target List and Processing Status</a>
+
+<li> <a href=./disks.txt>Disk Locations</a>
+
+<li> <a href=https://greenbankobservatory.org/science/telescopes/140-foot/>NRAO 43-m Telescope Web Page</a> 
+
+<li> <a href=http://www.gb.nrao.edu/mlln/operate/>Real Time 
+Telescope Display/Status</a> (mitll,43m-mit) <br>
+
+<p>
+
+<p>
+
+<b>Project Participants</b>
+
+<p>
+
+<li> Fronefield Crawford (F&M)
+<li> Glen Langston (NRAO) 
+<li> Debbie Schmidt (F&M '12)
+<li> Claire Gilpin (F&M '12) 
+
+<li> Ben Nguyen (F&M '18)
+<li> Tanya Saigal (F&M '19)
+<li> Jamie Margeson (F&M '21)
+
+<p>
+
+<p>
+
+<b>Publications and Presentations</b>
+
+<p>
+
+<li> <a href=https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...21C>"Reprocessing 
+of a Green Bank 43 m Telescope Survey of Unidentified Bright Radio Sources for Pulsars and Radio Bursts"</a>, by
+F. Crawford et al., 
+Research Notes of the American Astronomical Society, 5, 21 (2021)
+
+<p>
+
+<li> <a href=http://adsabs.harvard.edu/abs/2013AJ....145..116S>"A Search for Rapidly Spinning Pulsars and Fast Transients in Unidentified Radio Sources with the NRAO 43 Meter Telescope"</a>, by  
+D. Schmidt et al., Astronomical Journal, 145, 116 (2013)
+
+<p>
+
+<li> <a href=http://adsabs.harvard.edu/abs/2012AAS...21923716S>"A New
+Search of Unidentified Radio Point Sources for Fast Pulses and
+Bursts"</a>, by D. Schmidt et al., American Astronomical Society
+Meeting, 219, #237.16 (2012)
+
+<p>
+
+
+<li> <a href=http://adsabs.harvard.edu/abs/2011AAS...21721501C>"Progress
+Report on a New Survey of Unidentified Radio Sources for Fast Pulses
+and Bursts"</a>, by F. Crawford et al., American Astronomical Society
+Meeting, 217, #215.01 (2011)
+
+<p>
+
+<li> <a href=http://adsabs.harvard.edu/abs/2011AIPC.1357...60M>"Pulsar
+Science with the Green Bank 43m Telescope"</a>, by M. Mickaliger et
+al., American Institute of Physics Conference Series, 1357, 60 (2011)
+
+<p>
+
+<p>
+
+Below: The NRAO 43-meter radio telescope.
+
+<p>
+
+
+<img height=500 src=./140_ft_antenna.gif>
+
+<p>
+<p>
+
+Below: Detections of PSR B1937+21 and the Crab pulsar from test observations with the system.
+
+
+<p>
+
+
+<img height=500 src=./wuppi_55247_PSR1937+21_150_0001_1.56ms_Cand.pfd.png>
+<p>
+<img height=500 src=./wuppi_55256_TAURUSA_180_0001_33.64ms_Cand.pfd.png>
+<p>
+<img height=500 src=./cand_tstart_55256.987164351849_tcand_708.4420000_dm_56.41850_snr_14.07770.png>
+
+
+
+ 
+

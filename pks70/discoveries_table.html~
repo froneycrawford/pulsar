@@ -1,0 +1,37 @@
+<h3>Discoveriesfrom the PKS70 Re-Analysis:</h3>
+<p>Table listing GMRT discoveries</p>
+
+<table style="width:70%">
+  <tr>
+    <th>PSR</th>
+    <th>RA (J2000)</th>
+    <th>Dec (J2000)</th>
+    <th>Period (ms)</th> 
+    <th>DM (pc/cc)</th>
+  </tr>
+  <tr>
+    <td>J0540-69</td>
+    <td>05:40:11.1</td>
+    <td>-69:19:57.5</td>
+    <td>909.997</td>
+    <td>78.8</td>
+  </tr>
+  </tr>
+<tr>
+</table>
+
+<br>
+
+
+
+<table border=1 align=left width=100%>
+
+<td> <b>Date</b> <td> <b>Start Time</b> <td> <b>Telescope</b> <td> <b>Frequency</b> <td> <b>Backend</b> <td> <b>Obs Length</b> <td> <b>File</b> <td> <b>Notes</b
+> <tr>
+
+<td> 2001/03/05 <td> 51973.7164 <td> Parkes <td> 1374 MHz <td> filterbank <td> 2
+100 sec (35.0 min) <td> PM0137_038_11.pkmb <td> <a href=./PM0137_038_11_1.86ms_C
+and.pfd.png>strong detection</a> <tr> 
+
+</table>
+

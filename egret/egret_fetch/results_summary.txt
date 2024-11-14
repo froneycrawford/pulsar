@@ -1,0 +1,43 @@
+Microwave Oven:
+
+EGU202_9_01/candidates/select.txt
+2 ./candidates/cand tstart 52822.003946759258 tcand 223.0330000 dm 410.10900 snr 21.28750.h5 0.9831092 1.0
+
+EGU202_9_02/candidates/select.txt
+4 ./candidates/cand tstart 52822.003946759258 tcand 285.5620000 dm 422.23000 snr 8.67134.h5 0.99999964 1.0
+2 ./candidates/cand tstart 52822.003946759258 tcand 223.0330000 dm 410.10900 snr 21.09860.h5 0.9877325 1.0
+
+EGU202_9_03/candidates/select.txt
+3 ./candidates/cand tstart 52822.003946759258 tcand 285.5750000 dm 398.33600 snr 8.76765.h5 0.9999654 1.0
+1 ./candidates/cand tstart 52822.003946759258 tcand 223.0400000 dm 386.90000 snr 20.73540.h5 0.99037766 1.0
+
+EGU202_9_05/candidates/select.txt
+1 ./candidates/cand tstart 52822.003946759258 tcand 223.0360000 dm 410.10900 snr 23.63880.h5 0.9773632 1.0
+
+EGU202_9_06/candidates/select.txt
+5 ./candidates/cand tstart 52822.003946759258 tcand 223.0340000 dm 398.33600 snr 21.42750.h5 0.99979943 1.0
+7 ./candidates/cand tstart 52822.003946759258 tcand 285.5660000 dm 422.23000 snr 9.16981.h5 0.9851318 1.0
+
+EGU202_9_07/candidates/select.txt
+6 ./candidates/cand tstart 52822.003946759258 tcand 285.5670000 dm 410.10900 snr 11.18520.h5 0.9999645 1.0
+4 ./candidates/cand tstart 52822.003946759258 tcand 223.0340000 dm 398.33600 snr 24.33170.h5 0.98802954 1.0
+
+EGU202_9_08/candidates/select.txt
+3 ./candidates/cand tstart 52822.003946759258 tcand 223.0380000 dm 398.33600 snr 21.46810.h5 0.911243 1.0
+
+EGU202_9_09/candidates/select.txt
+57 ./candidates/cand tstart 52822.003946759258 tcand 223.0370000 dm 398.33600 snr 12.37010.h5 0.9999976 1.0
+
+EGU202_9_10/candidates/select.txt
+5 ./candidates/cand tstart 52822.003946759258 tcand 223.0380000 dm 386.90000 snr 14.28980.h5 0.9195481 1.0
+
+EGU202_9_11/candidates/select.txt
+2 ./candidates/cand tstart 52822.003946759258 tcand 223.0360000 dm 386.90000 snr 21.28350.h5 0.99772376 1.0
+
+EGU202_9_12/candidates/select.txt
+4 ./candidates/cand tstart 52822.003946759258 tcand 223.0340000 dm 398.33600 snr 16.57260.h5 0.9984434 1.0
+
+EGU202_9_13/candidates/select.txt
+7 ./candidates/cand tstart 52822.003946759258 tcand 285.5680000 dm 410.10900 snr 9.56850.h5 0.9999417 1.0
+4 ./candidates/cand tstart 52822.003946759258 tcand 223.0370000 dm 398.33600 snr 29.20380.h5 0.9990897 1.0
+

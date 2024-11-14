@@ -1,0 +1,119 @@
+<title>CLASS6 Known Pulsars</title>
+
+<h1>CLASS6 Known Pulsars</h1>
+
+N=22 known pulsars detected
+
+<p>
+
+B0540+23 (2x) <br>
+J1843-0000 (4x) <br> 
+J1844+00 (1x) <br>
+J1846+0051 (1x) <br>
+B1848+04 (1x) <br>
+B1849+00 (1x) <br>
+J1850+0026 (2x) <br>
+J1853-0004 (1x) <br>
+J1853+0011 (1x) <br>
+J1853+0056 (1x) <br> 
+J1853+0505 (2x) <br> 
+B1854+00 (1x) <br> 
+B1855+02 (4x) <br>
+J1855+0700 (1x) <br>
+B1855+09 (3x) <br>
+J1856+0404 (1x) <br>
+J1857+0143 (1x) <br> 
+J1858+03 (1x) (PALFA) <br>
+B1913+167 (1x) <br>
+B1918+19 (1x) <br>
+B1953+29 (1x) <br>
+J2005+35 (1x) (PALFA) <br> 
+J2010+28 (1x) 
+
+<p>
+
+<table border=1 align=left width=100%>
+
+<td> <b>Entry #</b> <td> <b>Cand ID</b> <td> <b>Project</b> <td> <b>Pointing</b> <td> <b>Beam</b> <td> <b>P (ms)</b> <td> <b>DM</b> <td> <b>Peak S/N</b> <td> <b>Proc Date</b> <td> <b>Notes</b> <tr>
+
+<td> 1 <td><a href=./p2030_54018_78363_0051_G42.37+03.00.C_0_DM13.20_Z0_ACCEL_Cand_2.pfd.png>48078</a>  <td> p2030 <td> G42.37+03.00.C <td> 0 <td> 5.36 <td> 13.4 <td> 10.6 <td> 24-Aug-2008 <td> B1855+09 <tr>
+
+<td> 2 <td><a href=./p2030_54018_78363_0051_G42.37+03.00.C_2_DM13.50_Z0_ACCEL_Cand_1.pfd.png>968</a>    <td> p2030 <td> G42.37+03.00.C <td> 2 <td> 5.36 <td> 13.5 <td> 33.6 <td> 23-Aug-2008 <td> B1855+09 <tr>
+
+<td> 3 <td><a href=./p2030_54018_78363_0051_G42.37+03.00.C_3_DM13.80_Z0_ACCEL_Cand_2.pfd.png>50499</a>  <td> p2030 <td> G42.37+03.00.C <td> 3 <td> 5.36 <td> 13.5 <td> 7.8 <td> 23-Aug-2008 <td> B1855+09 <tr> 
+
+<td> 4 <td><a href=./p2030_54018_79758_0063_G50.51+02.56.C_5_DM228.70_Z0_ACCEL_Cand_1.pfd.png>10829</a> <td> p2030 <td> G50.51+02.56.C <td> 5 <td> 1616.26 <td> 30.1 <td> > 50 <td> 5-Sep-2008 <td> B1913+167 <tr> 
+
+<td> 5 <td><a href=./p2030_54125_06216_0027_G184.24-03.36.C_1_DM91.80_Z0_ACCEL_Cand_1.pfd.png>130859</a><td> p2030 <td> G184.24-03.36.C <td> 1 <td> 245.98 <td> 77.9 <td> 30.9 <td> 19-Feb-2009 <td> B0540+23 <tr>
+
+<td> 6 <td><a href=./p2030_54125_06216_0027_G184.24-03.36.C_2_DM98.70_Z0_ACCEL_Cand_1.pfd.png>130810</a><td> p2030 <td> G184.24-03.36.C <td> 2 <td> 245.98 <td> 72.2 <td> 17.9 <td> 19-Feb-2009 <td> B0540+23 <tr>
+
+<td> 7 <td><a href=./p2030_54005_83649_0086_G53.73+02.69.C_3_DM217.70_Z0_ACCEL_Cand_2.pfd.png>34530</a> <td> p2030 <td> G53.73+02.69.C <td> 3 <td> 820.79 <td> 0.0 <td> 26.6 <td> 4-Sep-2008 <td> B1918+19 <tr> 
+
+<td> 8 <td><a href=./p2030_54127_52926_0137_G31.95+01.92.C_5_DM205.70_Z0_ACCEL_Cand_1.pfd.png>138284</a><td> p2030 <td> G31.95+01.92.C <td> 5 <td> 880.32 <td> 90.2 <td> > 50 <td> 7-Mar-2009 <td> J1843-0000 <tr>
+
+<td> 9 <td><a href=./p2030_54127_52765_0135_G31.95+01.92.C_5_DM200.20_Z0_ACCEL_Cand_1.pfd.png>137884</a><td> p2030 <td> G31.95+01.92.C <td> 5 <td> 880.25 <td> 94.3 <td> > 50 <td> 6-Mar-2009 <td> J1843-0000 <tr> 
+
+<td> 10 <td><a href=./p2030_54127_52288_0132_G31.95+01.92.C_5_DM212.20_Z0_ACCEL_Cand_1.pfd.png>139066</a><td> p2030 <td> G31.95+01.92.C <td> 5 <td> 880.32 <td> 98.4 <td> > 50 <td> 7-Mar-2009 <td> J1843-0000 <tr>
+
+<td> 11 <td><a href=./p2030_54127_52053_0130_G31.95+01.92.C_5_DM183.60_Z0_ACCEL_Cand_1.pfd.png>137934</a><td> p2030 <td> G31.95+01.92.C <td> 5 <td> 880.33 <td> 104.6 <td> > 50 <td> 6-Mar-2009 <td> J1843-0000 <tr> 
+
+<td> 12 <td><a href=./p2030_54786_68781_0007_G32.89+01.96.S_3_DM359.20_Z0_ACCEL_Cand_1.pfd.png>166691</a><td> p2030 <td> G32.89+01.96.S <td> 3 <td> 460.50 <td> 361.3 <td> 15.9 <td> 23-Jun-2009 <td> J1844+00 <tr> 
+
+<td> 13 <td><a href=./p2030_54638_18714_0001_G33.58+00.05.S_0_DM997.20_Z0_ACCEL_Cand_1.pfd.png>172506</a><td> p2030 <td> G33.58+00.05.S <td> 0 <td> 2180.21 <td> 771.8 <td> > 50 <td> 28-Jun-2009 <td> B1849+00 <tr> 
+
+<td> 14 <td><a href=./p2030_53697_68409_0133_G33.21-00.53.N_3_DM433.20_Z0_ACCEL_Cand_1.pfd.png>178042</a><td> p2030 <td> G33.21-00.53.N <td> 3 <td> 101.43 <td> 437.3 <td> 8.4 <td> 30-Jun-2009 <td> J1853-0004 <tr>
+
+<td> 15 <td><a href=./p2030_54574_34901_0020_G33.21+00.41.S_6_DM252.70_Z0_ACCEL_Cand_1.pfd.png>178778</a><td> p2030 <td> G33.21+00.41.S <td> 6 <td> 1081.86 <td> 183.9 <td> 26.3 <td> 30-Jun-2009 <td> J1850+0026 <tr>
+
+<td> 16 <td><a href=./p2030_53605_03657_0009_G33.21+00.41.N_5_DM255.70_Z0_ACCEL_Cand_2.pfd.png>177741</a><td> p2030 <td> G33.21+00.41.N <td> 5 <td> 1081.85 <td> 183.6 <td> 30.3 <td> 30-Jun-2009 <td> J1850+0026 <tr>
+
+<td> 17 <td><a href=./p2030_53972_01915_0004_G33.20+01.35.C_2_DM150.60_Z0_ACCEL_Cand_1.pfd.png>173972</a><td> p2030 <td> G33.20+01.35.C <td> 2 <td> 434.37 <td> 143.7 <td> > 50 <td> 28-Jun-2009 <td> J1846+0051 <tr>
+
+<td> 18 <td><a href=./p2030_53697_68409_0133_G33.21-00.53.N_1_DM577.20_Z0_ACCEL_Cand_1.pfd.png>172262</a><td> p2030 <td> G33.21-00.53.N <td> 1 <td> 397.88 <td> 602.4 <td> 9.0 <td> 28-Jun-2009 <td> J1853+0011 <tr> 
+
+<td> 19 <td><a href=./p2030_53492_29476_0015_G35.03-00.70.N_1_DM233.20_Z0_ACCEL_Cand_1.pfd.png>192646</a><td> p2030 <td> G35.03-00.70.N <td> 1 <td> 139.78 <td> 233.2 <td> 11.8 <td> 18-Jul-2009 <td> J1857+0143 <tr>
+
+<td> 20 <td><a href=./p2030_53698_67375_0124_G35.53-00.55.N_1_DM501.20_Z0_ACCEL_Cand_1.pfd.png>202655</a><td> p2030 <td> G35.53-00.55.N <td> 1 <td> 415.84 <td> 499.3 <td> > 50 <td> 14-Aug-2009 <td> B1855+02 <tr>
+
+<td> 21 <td><a href=./p2030_53490_31124_0043_G36.58+01.89.N_1_DM137.70_Z0_ACCEL_Cand_1.pfd.png>209878</a><td> p2030 <td> G36.58+01.89.N <td> 1 <td> 284.71 <td> 109.3 <td> 20.8 <td> 17-Aug-2009 <td> B1848+04 <tr>
+
+<td> 22 <td><a href=./p2030_53606_04478_0011_G35.78-00.48.N_3_DM537.20_Z0_ACCEL_Cand_1.pfd.png>209288</a><td> p2030 <td> G35.78-00.48.N <td> 3 <td> 415.83 <td> 505.1 <td> 7.9 <td> 17-Aug-2009 <td> B1855+02 <tr> 
+
+<td> 23 <td><a href=./p2030_53904_20660_0018_G35.78-00.48.C_3_DM499.20_Z0_ACCEL_Cand_1.pfd.png>220640</a><td> p2030 <td> G35.78-00.48.C <td> 3 <td> 415.84 <td> 514.7 <td> 21.4 <td> 22-Aug-2009 <td> B1855+02 <tr> 
+
+<td> 24 <td><a href=./p2030_53904_20660_0018_G35.78-00.48.C_2_DM510.20_Z0_ACCEL_Cand_1.pfd.png>221076</a><td> p2030 <td> G35.78-00.48.C <td> 2 <td> 415.84 <td> 506.3 <td> 8.2 <td> 22-Aug-2009 <td> B1855+02 <tr> 
+
+<td> 25 <td><a href=./p2030_54019_85444_0122_G72.65+02.10.C_5_DM414.20_Z0_ACCEL_Cand_1.pfd.png>23182</a><td> p2030 <td> G72.65+02.10.C <td> 5 <td> 615.01 <td> 394.1 <td> 30.4 <td> 22-Aug-2008 <td> J2005+35 (PALFA) <tr> 
+
+<td> 26 <td><a href=./p2030_53768_51981_0017_G37.09+00.15.C_0_DM413.20_Z0_ACCEL_Cand_1.pfd.png>234153</a><td> p2030 <td> G37.09+00.15.C <td> 0 <td> 256.88 <td> 417.9 <td> 9.9 <td> 29-Aug-2009 <td> J1858+03 (PALFA) <tr>
+
+<td> 27 <td><a href=./p2030_53486_33132_0033_G37.52+01.94.N_6_DM302.20_Z0_ACCEL_Cand_1.pfd.png>239728</a><td> p2030 <td> G37.52+01.94.N <td> 6 <td> 905.16 <td> 296.9 <td> > 50 <td> 3-Sep-2009 <td> J1853+0505 <tr> 
+
+<td> 28 <td><a href=./p2030_53486_33132_0033_G37.52+01.94.N_7_DM336.20_Z0_ACCEL_Cand_1.pfd.png>239778</a><td> p2030 <td> G37.52+01.94.N <td> 7 <td> 905.16 <td> 294.9 <td> > 50 <td> 3-Sep-2009 <td> J1853+0505 <tr> 
+
+<td> 29 <td><a href=./p2030_53768_51055_0008_G34.02-00.06.C_0_DM192.20_Z0_ACCEL_Cand_1.pfd.png>249971</a><td> p2030 <td> G34.02-00.06.C <td> 0 <td> 275.58 <td> 169.0 <td> > 50 <td> 2-Oct-2009 <td> J1853+0056 <tr>
+
+<td> 30 <td><a href=./p2030_54778_70935_0011_G34.53-00.85.S_2_DM124.20_Z0_ACCEL_Cand_1.pfd.png>255655</a><td> p2030 <td> G34.53-00.85.S <td> 2 <td> 356.93 <td> 74.8 <td> > 50 <td> 5-Oct-2009 <td> B1854+00 <tr> 
+
+<td> 31  <td><a href=./p2030_53489_32744_0061_G39.45+02.31.N_7_DM268.20_Z0_ACCEL_Cand_4.pfd.png>277417</a><td> p2030 <td> G39.45+02.31.N <td> 7 <td> 258.69 <td> 269.3 <td> 7.5 <td> 3-Nov-2009 <td> J1855+0700 <tr> 
+
+<td> 32 <td><a href=./p2030_54555_38626_0035_G37.27+00.92.S_4_DM405.20_Z0_ACCEL_Cand_2.pfd.png>236571</a><td> p2030 <td> G37.27+00.92.S <td> 4 <td> 420.29 <td> 321.0 <td> 9.6 <td> 1-Sep-2009 <td> J1856+0404 <tr> 
+
+<td> 33 <td><a href=./p2030_53620_07370_0066_G67.09-02.56.N_3_DM128.40_Z0_ACCEL_Cand_1.pfd.png>342235</a><td> p2030 <td> G67.09-02.56.N <td> 3 <td> 565.37 <td> 102.3 <td> 24.1 <td> 3-May-2010 <td> J2010+28 (PALFA) <tr> 
+
+<td> 34 <td><a href=./p2030_53614_05937_0051_G65.96+00.37.N_6_DM103.50_Z50_ACCEL_Cand_1.pfd.png>348754</a><td> p2030 <td> G65.96+00.37.N <td> 6 <td> 6.13 <td> 104.5 <td> 6.4 <td> 20-Jun-2010 <td> B1953+29 <tr> 
+
+<td> 35 <td><a href=./p2030_54147_56891_0151_G65.67-02.57.C_2_DM126.30_Z0_ACCEL_Cand_1.pfd.png>363275</a><td> p2030 <td> G65.67-02.57.C <td> 2 <td> 22.5 <td> 124.9 <td> 27.3 <td> 21-Jul-2010 <td> J2007+27 (PALFA E@H) <tr>
+
+<td> 36 <td><a href=./p2030_54142_57510_0179_G65.87-02.73.C_6_DM124.50_Z0_ACCEL_Cand_1.pfd.png>363375</a><td> p2030 <td> G65.87-02.73.C <td> 6 <td> 22.5 <td> 123.5 <td> 13.5 <td> 21-Jul-2010 <td> J2007+27 (PALFA E\@H) <tr>
+
+<td> 37<td><a href=./p2030_54142_57510_0179_G65.87-02.73.C_7_DM126.90_Z0_ACCEL_Cand_1.pfd.png>363425</a><td> p2030 <td> G65.87-02.73.C <td> 7 <td> 22.5 <td> 124.6 <td> 13.5 <td> 21-Jul-2010 <td> J2007+27 (PALFA E\@H) <tr>
+
+
+
+</table>
+
+
+
+

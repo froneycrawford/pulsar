@@ -1,0 +1,114 @@
+<title>Arecibo Pulsar and Transient Search of M33</title>
+
+<link rel="stylesheet" href="../pulsars.css" type="text/css">
+
+<h1>Arecibo Pulsar and Transient Search of M33</h1>  
+
+<p>
+
+<b>Project Summary</b>
+
+<p>
+
+To date, 99% of all pulsars that have been discovered are located
+within the Milky Way and its globular clusters, while the remaining 1%
+are in the nearby Magellanic Clouds. Recent developments in observing
+technology at the Arecibo telescope now make detection of pulsars
+beyond the Magellanic Clouds a promising possibility. One excellent
+target to search is the spiral galaxy M33, the Triangulum Galaxy. M33
+is only about 15-20 times more distant than the Magellanic Clouds and
+it is the third largest galaxy in the Local Group. Past efforts to
+detect pulsars in M33 with Arecibo have been unsuccessful (e.g.,
+<a href=http://adsabs.harvard.edu/abs/2003ApJ...596..982M>McLaughlin &
+Cordes 2003</a> and
+<a href=http://adsabs.harvard.edu/abs/2011ApJ...732...14B>Bhat et
+al. 2011</a>), but we have proposed a new and improved search.
+
+<p>
+
+Our leading motivation for this project is to make a groundbreaking
+discovery of extragalactic radio pulsars in M33. This would help us
+better understand neutron star formation, supernova processes, and
+pulsar evolution during early stages in another spiral galaxy.
+Pulsars in M33 could also be used to probe the local intergalactic
+medium. Apart from bright pulsars, our search may be sensitive to
+bright bursts from other sources, such as rotating radio transients
+and magnetars. It is also sensitive to the extremely luminous
+extragalactic bursts (fast radio bursts, or FRBs) that have been
+observed previously in some pulsar surveys. The origin of these bursts
+remains unknown.
+
+<p>
+
+Using the Crab pulsar as a guide, we estimate that our observations
+using the PUPPI backend at Arecibo at a center frequency of 327 MHz
+ought to be sensitive to every Crab-like pulsar residing in the
+optical disk of M33 that is beaming in our direction.
+
+<p>
+
+<b>Technical Information</b>
+
+<font size=2>
+
+<li> <a href=./beam_positions.txt>M33 Beam Positions and Processing
+Status</a>
+
+<li> <a href=./disks.txt>Raw Data Disk Contents</a>
+
+<li>
+<a href=http://www.naic.edu/vscience/schedule/scedfra2.htm>Arecibo
+Telescope Schedule</a>
+
+<p>
+
+<p>
+
+
+<b>Project Participants</b>
+
+<li> Fronefield Crawford (F&M)
+<li> Jim Cordes (Cornell University)
+<li> Laura Spitler (Max-Planck-Institut fur Radioastronomie)
+<li> Kristina Rolph (F&M '15)
+<li> Chitrang Patel (McGill University)
+
+<p>
+
+<p>
+
+<b>Publications and Presentations</b>
+
+<li>
+<a href=http://adsabs.harvard.edu/abs/2016AAS...22742306C>"Arecibo
+Search for Radio Pulses from M33"</a>, by F. Crawford, J. M. Cordes, &
+L. G. Spitler, American Astronomical Society Meeting, 227, #423.06
+(2016)
+
+<p>
+
+<li> "A Search for Pulsars and Transient Signals in M33 Using
+Arecibo", by F. Crawford & J. M. Cordes, 32nd International Union of
+Radio Science (URSI) General Assembly and Scientific Symposium,
+Montreal, Canada (2017)
+
+
+<p>
+
+<p>
+
+This work is funded in part by the
+<a href=http://www.sigmaxi.org/programs/grants-in-aid/>Sigma Xi
+Grants-in-Aid of Research Program</a>.
+
+<p>
+
+Below: (left) Optical image of M33, the Triangulum Galaxy, and (right)
+M33 with survey beams overlaid.
+
+<p>
+
+<img height=512 src=./m33_rot.jpg>
+
+<img height=512 src=./m33_skyview.png>
+

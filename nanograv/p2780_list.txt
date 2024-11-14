@@ -1,0 +1,11 @@
+From the nanograv wiki, current as of October 1, 2016
+
+P2780 Sessions for Arecibo
+
+Session  Rise_LST_of_first_src   Set_LST_of_last_src 
+
+A        09:09:11                23:37:59
+B        16:31:14                01:35:40
+C        16:21:35                01:29:15
+D        05:01:32                08:08:24
+

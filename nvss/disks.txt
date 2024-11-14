@@ -1,0 +1,11 @@
+DISK    LOCATION
+
+nrao1   Hackman 422
+nrao2   Hackman 422
+nrao3   Hackman 422
+nrao4   Hackman 422
+nrao5   Hackman 422
+nrao8   Hackman 422
+nrao9   Hackman 422
+nrao10  Hackman 422
+

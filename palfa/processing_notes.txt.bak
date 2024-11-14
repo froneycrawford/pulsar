@@ -1,0 +1,23 @@
+NOTES:
+
+Each set of two beams (assigned as a single job to 2 CPUs on a node)
+typically takes about 10 hr of wall time to process. This is for a 2.3
+min observation, which produces two raw files to be appended. A 4.5
+min observation (which produces three raw files to be appended), takes
+roughly 18 hr of wall time.
+
+The maximum (but seems to be stable) sustained data download rate from
+the Cornell data portal with FOUR simultaneous streams is 1.2 MB/s
+(9.6 Mbit/s), or about 100 GB/day.  The network setting is 125 KB/s (1
+Mbit/s) guaranteed.
+
+We are checking all candidates down to presto_sigma = 7.5 in the
+GUI. This seems to account for all of the viable candidates and there
+are just too many weaker ones below this to peruse.
+
+As of 20090615, there is only one known pulsar within our processed
+survey beams: B1913+167 in G50.51+02.56.C_5 (there are a number of
+pulsars that are outside our beams but bright enough to be detected as
+well). This known pulsar was detected in the beam with S/N = 8.5, so
+there are no notable non-detections so far.
+

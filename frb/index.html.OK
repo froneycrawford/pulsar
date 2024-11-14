@@ -1,0 +1,116 @@
+<title>Extragalactic Fast Radio Bursts (FRBs)</title>
+
+<h1>Extragalactic Fast Radio Bursts (FRBs)</h1>
+
+<p>
+
+F&M was involved in the discovery and analysis of the first of these
+bursts discovered (the Lorimer Burst; see below).
+
+<p>
+
+<b> Table of Detected Fast Radio Bursts (FRBs) </b>
+
+<p>
+
+<table border=1 align=center width=100%>
+ 
+<td> <b>FRB</b> <td> <b>Other Name</b> <td> <b>Obs Width (ms)</b> <td> <b>Total DM</b> <td> <b>Extragal DM</b> <td> <b>Peak Flux Density (Jy)</b> <td> <b>Redshift, z</b> <td> <b>Distance (Gpc)</b> <td> <b>Energy Released (J)</b> <td> <b>Reference</b>  <tr>
+
+<td> 010724 <td> Lorimer Burst <td> 4.6   <td> 375 +/- 1       <td> 330  <td> 30 +/- 10   <td> ~0.1 <td> ~0.5 <td> ~10^33 <td> <a href=http://adsabs.harvard.edu/abs/2007Sci...318..777L>Lorimer et al. (2007)</a> <tr>
+
+<td> 010621 <td> J1852-08      <td> 8.3   <td> 746 +/- 1       <td> 213  <td> 0.4 +/- 0.1 <td> ~0.1 <td> ~0.5 <td> ~10^31 <td> <a href=http://adsabs.harvard.edu/abs/2012MNRAS.425L..71K>Keane et al. (2012)</a> <tr>
+
+<td> 110220 <td> &nbsp;        <td> 5.6   <td> 944.38 +/- 0.05 <td> 910  <td> 1.3         <td> 0.81  <td> 2.8 <td> ~10^33 <td> <a href=http://adsabs.harvard.edu/abs/2013Sci...341...53T>Thornton et al. (2013)</a> <tr>
+<td> 110627 <td> &nbsp;        <td> < 1.4 <td> 723.0 +/- 0.3   <td> 677  <td> 0.4         <td> 0.61  <td> 2.2 <td> ~10^31 <td> <a href=http://adsabs.harvard.edu/abs/2013Sci...341...53T>Thornton et al. (2013)</a> <tr>
+<td> 110703 <td> &nbsp;        <td> < 4.3 <td> 1103.6 +/- 0.7  <td> 1072 <td> 0.5         <td> 0.96  <td> 3.2 <td> ~10^32 <td> <a href=http://adsabs.harvard.edu/abs/2013Sci...341...53T>Thornton et al. (2013)</a> <tr>
+<td> 120127 <td> &nbsp;        <td> < 1.1 <td> 553.3 +/- 0.3   <td> 521  <td> 0.5         <td> 0.45  <td> 1.7 <td> ~10^31 <td> <a href=http://adsabs.harvard.edu/abs/2013Sci...341...53T>Thornton et al. (2013)</a> <tr>
+
+</table>
+
+<p>
+
+See also Table 1 from both <a
+href=http://adsabs.harvard.edu/doi/10.1093/mnras/stt1598>Hassall,
+Keane, & Fender (2013)</a> and <a
+href=http://adsabs.harvard.edu/abs/2013Sci...341...53T>Thornton et
+al. (2013)</a>.
+
+<p>
+
+<b> Additional Information </b>
+
+<p>
+
+For scientific details about the first of these bursts discovered, the
+Lorimer Burst, please consult <a
+href=http://adsabs.harvard.edu/abs/2007Sci...318..777L> "A Bright
+Millisecond Radio Burst of Extragalactic Origin"</a> by D. R. Lorimer
+et al., Science, 318, 777 (2007).  For a layman's explanation, you can
+read the media report of the discovery ("Strong Extragalactic Radio
+Burst Poses a Mystery") at <a
+href=http://www.npr.org/templates/story/story.php?storyId=14778839&ft=1&f=1001>NPR's
+All Things Considered</a> web site (the radio broadcast of the report
+is also there, and you can listen to that).
+
+<p>
+
+
+The second burst, J1852-08, is discussed in the paper <a
+href=http://adsabs.harvard.edu/abs/2012MNRAS.425L..71K> "On the Origin
+of a Highly Dispersed Coherent Radio Burst"</a> by E. F. Keane et al.,
+Monthly Notices of the Royal Astronomical Society, 415, L71 (2012).
+
+<p>
+
+Four additional bursts were discovered and published in <a
+href=http://adsabs.harvard.edu/abs/2013Sci...341...53T>"A Population
+of Fast Radio Bursts at Cosmological Distances"</a> by D. Thornton et
+al., Science, 341, 53 (2013).
+
+<p>
+
+Commentary on these kinds of radio bursts can be found in <a
+href=http://www.sciencemag.org/content/341/6141/40>"Radio Bursts,
+Origin Unknown"</a> by J. M. Cordes , Science, 341, 40 (2013).
+
+<p>
+
+Finally, you can read about the <a
+href=http://setiathome.berkeley.edu/ap_info.php>Astropulse
+project</a>, a SETI sky survey project designed to detect very short
+transient dispersed radio pulses (like this one).
+
+<p>
+
+Below is a plot of the arrival of the (dispersed) Lorimer burst, with
+frequency vs. time shown (inset is the burst after dedispersion):
+
+<p>
+
+<img src=./waterfall1.jpg width=460>
+
+<p>
+
+Below is the Lorimer burst after dedispersion and channel summing has
+been applied, shown as a function of time (see also the inset of the
+previous image):
+
+<p>
+
+<img src=./impulse1.jpg width=225>
+
+<p>
+
+Below is an image of the SMC with the location of the Lorimer burst
+indicated (note that we also have a <a href=./smc_map1.jpg>larger
+image with a white background</a>):
+
+<p>
+
+<img src=./smc_map2.jpg width=450>
+
+
+
+
+

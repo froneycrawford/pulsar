@@ -1,0 +1,80 @@
+<title>Search of HMXBs in the Magellanic Clouds</title>
+
+<h1>Search of HMXBs in the Magellanic Clouds</h1>  
+
+<p>
+
+<b>Data Summary:</b>
+
+<p>
+
+Search targets are from the <a
+href=http://heasarc.gsfc.nasa.gov/W3Browse/all/maghmxbcat.html>Magellanic
+Clouds High-Mass X-Ray Binaries Catalog (HEASARC)</a>, built from data
+from <a
+href=http://adsabs.harvard.edu/cgi-bin/bib_query?2005A&A...442.1135L>Liu
+et al. (2005)</a>
+
+<pre>
+There are 128 HMXBs total in the catalog (91 SMC, 37 LMC)
+
+17 have bad survey sensitivity (< 30 min. survey equivalent) 
+19 have no survey beam coincident (but maybe 2001 SMC pilot survey?) 
+16 have survey beam with RFI > 30%
+
+76 have good enough data (includes duplicate of J0050-732#1 and J0050-732#2)
+</pre>
+
+<p>
+
+<b>Real-time Cluster Information:</b>
+
+<li> bw01:
+<a href=http://master.bw01.fandm.edu/ganglia>Ganglia</a> /
+<a href=http://master.bw01.fandm.edu/cluster_loads.html>Loads</a> /
+<a href=http://master.bw01.fandm.edu/queue_loads.html>Queue</a> /
+<a href=http://ustre.am/MlTQ>Astro Lab Webcam</a> /
+<a href=http://master.bw01.fandm.edu/ups.html>UPS</a>
+
+<li> bw02:
+<a href=http://master.bw02.fandm.edu/ganglia>Ganglia</a> /
+<a href=http://master.bw02.fandm.edu/cluster_loads.html>Loads</a> /
+<a href=http://master.bw02.fandm.edu/queue_loads.html>Queue</a> /
+<a href=http://ustre.am/MlTQ>Astro Lab Webcam</a> /
+<a href=http://master.bw02.fandm.edu/ups.html>UPS</a>
+
+
+
+<p>
+
+<b> Search Status:</b>
+
+<p>
+
+<li> runsearch: aclist -10 to 10 step 0.1, DM out to 800 (done 76/76)
+<li> accel_seek: aclist -20 to 20 step 0.01, DM out to 800 (done 76/76)
+<li> single_ffa_seek: SP search DM out to 800 (done 76/76)
+<li> single_ffa_seek: FFA search DM out to 800 (done 76/76) 
+
+<p>
+
+<b> Results:</b>
+
+<p>
+
+<pre>
+Name                       P (ms)    DM      S/N   Status (see Hi-res survey page) 
+
+<a href=../hi_res_mc/plots/Ppsr3.png>J0535-66</a>    SNR002_8       210       71            Confirmed (Ppsr3 being timed)
+<a href=../hi_res_mc/plots/Ppsr5.png>J0456-69</a>    SMC012_004_06  117      102     26.4   Confirmed (Ppsr5 being timed) 
+<a href=../hi_res_mc/plots/SMC018_024_04.cand_485_247.50ms_Cand.pfd.png>J0543-66</a>    SMC018_024_04  247      302      7.1   A Candidate (binary?) 
+<a href=../hi_res_mc/plots/SMC012_004_06_DM55.01_ACCEL_Cand_21.pfd.png>J0046-73</a>    SMC012_004_06  283       48      7.2   B Candidate 
+<a href=../hi_res_mc/plots/SMC018_025_08_427.99ms_Cand.pfd.png>J0533-66</a>    SMC018_025_08  428       10      9.8   B Candidate (low DM)
+<a href=../hi_res_mc/plots/SMC010_001_12.cand.410.png>J0031-74</a>    SMC010_001_12  602       34      9.3   B Candidate  
+<a href=../hi_res_mc/plots/SMC016_021_07.cand.006.png>J0502-66</a>    SMC016_021_07  962       55      9.3   B Candidate  
+<a href=../hi_res_mc/plots/SMC019_019_02.cand.015.png>J0543-67</a>    SMC019_019_02  216       83      7.7   B Candidate
+<a href=../hi_res_mc/plots/SMC018_032_05.cand.988.png>J0536-65</a>    SMC018_032_05  225      162      6.5   B Candidate
+<a href=../hi_res_mc/plots/SMC018_025_08.single.png>SP0533-66</a>   SMC018_025_08  ---      100      6.2   Weak SP Candidate
+</pre>
+
+

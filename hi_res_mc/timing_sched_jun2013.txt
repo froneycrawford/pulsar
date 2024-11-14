@@ -1,0 +1,9 @@
+> # New LMC pulsars timing shcedule (Ridley et al. 8 pulsars) 
+> Ppsr5; P 04:56:30.00 -69:09:59.00; tobs  900.0; bp_proc survey.multibeam; bp_nbit 2; bp_tdec 1; bp_acc 25; fdmode CONTINUOUS; fdang 30; d3_tsub 10; rcvr MULTI; mode srch; nbeam 13; beam 1;
+> Ppsr6; P 04:57:01.00 -69:45:46.00; tobs 3600.0; bp_proc survey.multibeam; bp_nbit 2; bp_tdec 1; bp_acc 25; fdmode CONTINUOUS; fdang 30; d3_tsub 10; rcvr MULTI; mode srch; nbeam 13; beam 1;
+> Ppsr2; P 04:58:59.00 -67:42:39.00; tobs 3600.0; bp_proc survey.multibeam; bp_nbit 2; bp_tdec 1; bp_acc 25; fdmode CONTINUOUS; fdang 30; d3_tsub 10; rcvr MULTI; mode srch; nbeam 13; beam 1;
+> Ppsr1; P 05:21:44.00 -68:34:42.00; tobs 1200.0; bp_proc survey.multibeam; bp_nbit 2; bp_tdec 1; bp_acc 25; fdmode CONTINUOUS; fdang 30; d3_tsub 10; rcvr MULTI; mode srch; nbeam 13; beam 1;
+> Ppsr7; P 05:32:03.70 -69:45:49.10; tobs 4800.0; bp_proc survey.multibeam; bp_nbit 2; bp_tdec 1; bp_acc 25; fdmode CONTINUOUS; fdang 30; d3_tsub 10; rcvr MULTI; mode srch; nbeam 13; beam 1;
+> Ppsr3; P 05:35:40.00 -66:51:53.00; tobs 5400.0; bp_proc survey.multibeam; bp_nbit 2; bp_tdec 1; bp_acc 25; fdmode CONTINUOUS; fdang 30; d3_tsub 10; rcvr MULTI; mode srch; nbeam 13; beam 1;
+> Ppsr8; P 05:37:43.00 -69:21:19.70; tobs 5400.0; bp_proc survey.multibeam; bp_nbit 2; bp_tdec 1; bp_acc 25; fdmode CONTINUOUS; fdang 30; d3_tsub 10; rcvr MULTI; mode srch; nbeam 13; beam 1;
+> Ppsr4; P 05:42:34.00 -68:15:41.00; tobs  900.0; bp_proc survey.multibeam; bp_nbit 2; bp_tdec 1; bp_acc 25; fdmode CONTINUOUS; fdang 30; d3_tsub 10; rcvr MULTI; mode srch; nbeam 13; beam 1;

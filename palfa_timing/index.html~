@@ -1,0 +1,52 @@
+<title>Timing of PALFA Millisecond Pulsars</title>
+
+<link rel="stylesheet" href="../pulsars.css" type="text/css">
+
+<h1>Timing of PALFA Millisecond Pulsars</h1>  
+
+<p>
+
+The details of the timing results and discussion of these four
+millisecond pulsars are presented in <a href=http://adsabs.harvard.edu/abs/2012ApJ...757...90C>"Four Highly Dispersed Millisecond
+Pulsars Discovered in the Arecibo PALFA Galactic Plane Survey"</a> by
+F. Crawford et al., Astrophysical Journal, 757, 90 (2012). 
+
+<p>
+
+The ephemeris files are in TEMPO format.
+
+<p>
+
+All profiles shown are at 1.4 GHz.  
+
+<p>
+
+<table border=1 align=left width=100%>
+
+<td> <p><b>Pulsar</b> <td> <p><b>P (ms)</b> <td> <p><b>DM</b> <td> <p><b>Ephemeris File</b> <td> <p><b>Pulse Profile</b> <td> <p><b>Poln Profile</b> <td> <p><b>Residuals (Date)</b> <td> <p><b>Residuals (Orb Phase)</b> <td> <p><b>Notes</b>  <tr> 
+<td> J1844+0115 <td> 4.19 <td> 148 <td> <a href=./1844+0115/1844+0115.par>1844+0115.par</a> <td> <a href=./1844+0115/1844_profile.png>PNG</a> <td> <a href=./1844+0115/1844_poln.png>PNG</a> <td> <a href=./1844+0115/1844+0115_epoch.png>PNG</a> <td> <a href=./1844+0115/1844+0115_phase.png>PNG</a> <td> binary <tr>
+<td> J1850+0124 <td> 3.56 <td> 119 <td> <a href=./1850+0124/1850+0124.par>1850+0124.par</a> <td> <a href=./1850+0124/1850_profile.png>PNG</a> <td> <a href=./1850+0124/1850_poln.png>PNG</a> <td> <a href=./1850+0124/1850+0124_epoch.png>PNG</a> <td> <a href=./1850+0124/1850+0124_phase.png>PNG</a> <td> binary <tr>
+<td> J1900+0308 <td> 4.91 <td> 250 <td> <a href=./1900+0308/1900+0308.par>1900+0308.par</a> <td> <a href=./1900+0308/1900_profile.png>PNG</a> <td> <a href=./1900+0308/1900_poln.png>PNG</a> <td> <a href=./1900+0308/1900+0308_epoch.png>PNG</a> <td> <a href=./1900+0308/1900+0308_phase.png>PNG</a> <td> binary <tr>
+<td> J1944+2236 <td> 3.62 <td> 185 <td> <a href=./1944+2236/1944+2236.par>1944+2236.par</a> <td> <a href=./1944+2236/1944_profile.png>PNG</a> <td> <a href=./1944+2236/1944_poln.png>PNG</a> <td> <a href=./1944+2236/1944+2236_epoch.png>PNG</a> <td> N/A <td> isolated <tr>
+
+</table>
+
+<p>
+
+<table>
+<hr size=5>
+.
+</table>
+
+<p>
+
+
+Below: A histogram of DM/P for known Galactic MSPs 
+(unshaded) and newly discovered PALFA MSPs (shaded), 
+including the four MSPs presented on this page. Both data sets are
+complete up to mid-2012. 
+
+<p>
+
+<img height=570 src=./msp_hist_milliseconds2.png>
+

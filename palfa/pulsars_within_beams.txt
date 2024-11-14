@@ -1,0 +1,22 @@
+List of known pulsars lying within area of processed beams (N=9):
+
+Date: 20100421
+
+WAPP_FILE                              BEAM   PULSAR      SEP  DETECTION?
+ 
+p2030.G50.51+02.56.C.wapp3.54018.0063  5      B1913+167   0.5' CLASS6 #4
+p2030.G39.45+02.31.N.wapp4.53489.0061  6*     J1855+0700  0.4' phantom beam (same as beam 7?)
+p2030.G39.45+02.31.N.wapp4.53489.0061  7      J1855+0700  0.4' CLASS6 #31 
+p2030.G56.97+02.82.C.wapp2.54017.0080  2      B1925+22    1.4' no, rfi_percentage =  0.000
+p2030.G33.58+00.05.S.wapp1.54638.0001  0      J1849+00    0.9' CLASS6 #13 
+p2030.G54.11+00.18.S.wapp1.54638.0042  1      J1930+1852  1.1' no, rfi_percentage =  0.000 
+p2030.G34.02-00.06.C.wapp1.53768.0008  0      J1853+0056  0.9' CLASS6 #29
+p2030.G54.17+02.59.C.wapp1.54186.0036  0      B1919+20    1.2' CLASS7 #130 
+p2030.G33.20+01.35.C.wapp2.53972.0004  2      J1846+0051  0.3' CLASS6 #17
+p2030.G35.59-00.30.C.wapp3.53898.0030  5      B1855+02    1.1' single #16, fourier processing error 
+
+There also have been a number of pulsars outside our beams which are
+bright enough to be detected.
+
+There are 2 notable non-detections so far.
+

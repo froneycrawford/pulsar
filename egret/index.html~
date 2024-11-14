@@ -1,0 +1,31 @@
+<title>Radio Pulsar Survey of EGRET Error Boxes</title>
+
+<h1>Radio Pulsar Survey of EGRET Error Boxes</h1>  
+
+For full survey details, please consult <a
+href=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2006ApJ...652.1499C&db_key=AST&data_type=HTML&format=&high=44d23f62ee22948>"A
+Survey of 56 Midlatitude EGRET Error Boxes for Radio Pulsars"</a> by
+F. Crawford et al., Astrophysical Journal, 652, 1499 (2006). 
+
+<p>
+
+<li> <a href=./egret_found.html>Pulsars Found</a>
+
+<li> <a href=./egret_single_pulse_plots/>Single Pulse Plots</a> 
+
+<li> <a href=./egret_ffa_plots/>FFA Plots</a>
+
+<li> <a href=./egret_database.html>Survey Database Information</a>
+
+<li> <a href=./egret_plots.html>Maps of Survey Targets</a> 
+
+<p>
+
+Aitoff galactic coordinates plot of the EGRET targets (open circles)
+and known pulsars (dots):
+
+<br>
+
+<img src=./aitoff_plot.png>
+
+

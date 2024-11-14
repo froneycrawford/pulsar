@@ -1,0 +1,199 @@
+<title>Parkes 70-cm (PKS70) Survey Re-Analysis</title>
+
+<link rel="stylesheet" href="../pulsars.css" type="text/css">
+
+<h1>Parkes 70-cm (PKS70) Survey Re-Analysis</h1>  
+
+<p>
+
+<h2>Background and Motivation</h2>
+
+<p>
+
+We are re-analyzing archival data from the Parkes radio telescope to
+hunt for previously missed pulsars and fast radio bursts. The
+archival data is from a 70-cm survey (called PKS70) that was conducted
+at Parkes in the 1990's which covered much of the southern sky. This
+data was processed at the time it was taken, and a large number of
+pulsars were discovered and published.
+
+<p>
+
+We have reprocessed the raw data from the entire survey.
+There are two reasons for doing this reprocessing.  
+
+<p>
+
+The first is that newer software we are using (PRESTO) is better tuned
+in some ways (better radio frequency interference excision,
+sensitivity to accelerated pulsars in binary systems) to find pulsars
+than the old software that was used all those years ago, so there may
+be pulsars lurking in the data that were missed.
+
+<p>
+
+The second is that with newer software we can search for radio bursts
+as well as periodicities. Impulsive signatures such as giant single
+pulses from neutron stars or fast radio bursts (FRBs) from distant
+galaxies that were previously undetected may now be discoverable. In
+particular, we are using the HEIMDALL single pulse detection package
+with the software package FETCH, a neural network classifier which is
+able to reliably identify realistic impulsive signals (and sift out
+likely interference signals).
+
+<p>
+
+Students working on the project look through standard prepfold search
+plots to look for pulsars. The pulsars found in the data are checked
+against the known pulsar catalog to see if it they are in fact
+new/undiscovered pulsars or not, and to make sure that all of the
+pulsars found in the original survey processing are seen again in the
+reprocessed data. In addition, students look through the single-pulse
+plots identified by FETCH as likely real to look for new signatures
+from burst sources.
+
+<p>
+
+<li>
+<a href=http://pulsars.nanosta.rs/>Wenky's PKS70 Survey PRESTO Re-Analysis Candidate Rating Tool</a>
+
+<p>
+
+<p>
+
+Here are papers describing the original PKS70 survey:
+
+<font size=2> 
+
+
+<li>
+<a href=https://ui.adsabs.harvard.edu/abs/1996MNRAS.279.1235M>"The
+Parkes Southern Pulsar Survey. I. Observing and Data Analysis Systems
+and Initial Results"</a> by Manchester et al., Monthly Notices of the
+Royal Astronomical Society, 279, 1235 (1996)
+
+<p>
+
+<li>
+<a href=https://ui.adsabs.harvard.edu/abs/1998MNRAS.295..743L>"The
+Parkes Southern Pulsar Survey - II. Final Results and Population
+Analysis"</a> by Lyne et al., Monthly Notices of the Royal
+Astronomical Society, 295, 743 (1998)
+
+<p>
+
+<li>
+<a href=https://ui.adsabs.harvard.edu/abs/1998MNRAS.297...28D>"The
+Parkes Southern Pulsar Survey - III. Timing of Long-Period
+Pulsars"</a> by D'Amico et al., Monthly Notices of the Royal
+Astronomical Society, 297, 28 (1998)
+
+</font> 
+
+
+<p>
+<p>
+
+<h2> Results </h2>
+
+<font size=2> 
+<a href=./discoveries_table.html>Link to a formatted table of new discoveries 
+from this analysis</a> (used by the pulsar scraper)</font>
+
+<p>
+<p>
+
+
+<b>Survey Candidates</b > 
+
+<p>
+
+<font size=3> 
+<pre>
+RA          Dec			DM	P (ms)		sigma	File		plots  		Notes 
+
+05:40:11.1  -69:19:57.5 	78.8    908.99758	11.7    S10801_1        <a href=./new_psrs/S10801_1_909.00ms_Cand.pfd.png>[prepfold]</a>	J0540-69 (new LMC pulsar)
+05:40:11.1  -69:19:57.5 	78.8    908.99629	17.3    S11109_1        <a href=./new_psrs/S11109_1_909.00ms_Cand.pfd.png>[prepfold]</a>	J0540-69 (confimation #1)
+05:40:11.1  -69:19:57.5 	84.2	908.99787	13.9    S18007_1        <a href=./new_psrs/S18007_1_909.00ms_Cand.pfd.png>[prepfold]</a>	J0540-69 (confimation #1) 
+
+
+RA          Dec			DM	P (ms)		sigma	File		plots  			refold_sigma	Notes 
+
+16:21:17.6  -44:51:00.0		77.1	187.565		8.8	S00121_4	[<a href=./cands/S00121_4_DM78.80_ACCEL_50_ACCEL_Cand_1.pfd.png>prepfold</a>][<a href=./cands/refolds/S00121_4_187.57ms_Cand.pfd.png>refold</a>]	8.7		candidate
+17:55:30.0  -22:45:00.0		21.4	 53.740		8.5	S01501_98	[<a href=./cands/S01501_98_DM22.80_ACCEL_50_ACCEL_Cand_3.pfd.png>prepfold</a>][<a href=./cands/refolds/S01501_98_53.74ms_Cand.pfd.png>refold</a>]	8.4		candidate
+07:37:30.0  -12:21:00.0		63.8	109.278		9.0	S11804_23	[<a href=./cands/S11804_23_DM63.40_ACCEL_50_ACCEL_Cand_4.pfd.png>prepfold</a>][<a href=./cands/refolds/S11804_23_109.28ms_Cand.pfd.png>refold</a>]	8.3		candidate
+16:48:12.4  -42:15:00.0		56.6	 83.124		7.6	S01802_94	[<a href=./cands/S01802_94_DM57.00_ACCEL_50_ACCEL_Cand_1.pfd.png>prepfold</a>][<a href=./cands/refolds/S01802_94_83.13ms_Cand.pfd.png>refold</a>]	8.2 		candidate
+06:00:46.5  -57:56:53.7		84.6	236.882		7.8	S12106_1	[<a href=./cands/S12106_1_DM85.30_ACCEL_50_ACCEL_Cand_2.pfd.png>prepfold</a>][<a href=./cands/refolds/S12106_1_236.88ms_Cand.pfd.png>refold</a>]	8.0		candidate
+18:04:30.0  -09:45:00.0		47.8	 47.961		8.3	S04212_22	[<a href=./cands/S04212_22_DM48.00_ACCEL_50_ACCEL_Cand_4.pfd.png>prepfold</a>][<a href=./cands/refolds/S04212_22_47.96ms_Cand.pfd.png>refold</a>]	7.9 		candidate
+08:46:19.1  -55:54:00.0		28.6	 91.306		7.6	S07111_2	[<a href=./cands/S07111_2_DM27.20_ACCEL_50_ACCEL_Cand_2.pfd.png>prepfold</a>][<a href=./cands/refolds/S07111_2_91.31ms_Cand.pfd.png>refold</a>]	7.6 		candidate
+17:42:53.6  -44:12:00.0		79.2	106.050		6.9	S02501_121	[<a href=./cands/S02501_121_DM78.40_ACCEL_50_ACCEL_Cand_4.pfd.png>prepfold</a>][<a href=./cands/refolds/S02501_121_106.05ms_Cand.pfd.png>refold</a>]	7.6		candidate
+09:01:09.3  -59:09:00.0		167.7	 90.287		7.8	S43301_3	[<a href=./cands/S43301_3_DM166.10_ACCEL_50_ACCEL_Cand_3.pfd.png>prepfold</a>][<a href=./cands/refolds/S43301_3_90.29ms_Cand.pfd.png>refold</a>]	7.4		candidate
+09:47:27.2  -35:06:00.0		71.3	 85.727		8.1	S10507_33	[<a href=./cands/S10507_33_DM68.40_ACCEL_50_ACCEL_Cand_3.pfd.png>prepfold</a>][<a href=./cands/refolds/S10507_33_85.73ms_Cand.pfd.png>refold</a>]	7.4		candidate
+13:15:09.0  -73:27:00.0		81.8	 53.959		7.3	S44404_25	[<a href=./cands/S44404_25_DM79.80_ACCEL_50_ACCEL_Cand_4.pfd.png>prepfold</a>][<a href=./cands/refolds/S44404_25_53.96ms_Cand.pfd.png>refold</a>]	7.2		candidate
+17:31:24.5  -31:12:00.0		102.3	194.770		8.6	S05806_21	[<a href=./cands/S05806_21_DM96.10_ACCEL_50_ACCEL_Cand_2.pfd.png>prepfold</a>][<a href=./cands/refolds/S05806_21_194.77ms_Cand.pfd.png>refold</a>]	7.2 		candidate
+00:16:30.0  -01:57:00.0		22.6	 26.891		7.3	S21401_33	[<a href=./cands/S21401_33_DM21.60_ACCEL_50_ACCEL_Cand_1.pfd.png>prepfold</a>][<a href=./cands/refolds/S21401_33_26.89ms_Cand.pfd.png>refold</a>]	7.0		candidate
+14:25:30.0  -22:45:00.0		19.8	 27.169		8.2	S01501_28	[<a href=./cands/S01501_28_DM20.00_ACCEL_50_ACCEL_Cand_6.pfd.png>prepfold</a>][<a href=./cands/refolds/S01501_28_27.17ms_Cand.pfd.png>refold</a>]	6.8 		candidate
+17:10:30.0  -09:45:00.0		178.3	 85.849		6.5	S04212_4	[<a href=./cands/S04212_4_DM177.10_ACCEL_50_ACCEL_Cand_2.pfd.png>prepfold</a>][<a href=./cands/refolds/S04212_4_85.85ms_Cand.pfd.png>refold</a>]	6.8		candidate
+04:20:20.9  -29:54:00.0		43.6	 29.922		7.1	S46705_7	[<a href=./cands/S46705_7_DM43.60_ACCEL_50_ACCEL_Cand_1.pfd.png>prepfold</a>][<a href=./cands/refolds/S46705_7_29.92ms_Cand.pfd.png>refold</a>]	6.8		candidate
+06:13:39.0  -01:58:54.0		112.0	146.630		7.2	S41801_1	[<a href=./cands/S41801_1_DM113.20_ACCEL_50_ACCEL_Cand_3.pfd.png>prepfold</a>][<a href=./cands/refolds/S41801_1_146.63ms_Cand.pfd.png>refold</a>]	6.7		candidate 
+13:57:16.6  -73:27:00.0		79.4	 70.086		7.1	S44404_29	[<a href=./cands/S44404_29_DM80.20_ACCEL_50_ACCEL_Cand_1.pfd.png>prepfold</a>][<a href=./cands/refolds/S44404_29_70.09ms_Cand.pfd.png>refold</a>]	6.7		candidate 
+04:12:45.8  -74:06:00.0		42.8	 76.414		8.4	S60802_11	[<a href=./cands/S60802_11_DM43.20_ACCEL_50_ACCEL_Cand_6.pfd.png>prepfold</a>][<a href=./cands/refolds/S60802_11_76.41ms_Cand.pfd.png>refold</a>]	6.4 		candidate
+05:25:30.0  -07:09:00.0		87.8	 46.237		6.6	S30503_17	[<a href=./cands/S30503_17_DM88.00_ACCEL_50_ACCEL_Cand_3.pfd.png>prepfold</a>][<a href=./cands/refolds/S30503_17_46.24ms_Cand.pfd.png>refold</a>]	6.4		candidate
+09:35:23.1  -46:09:00.0		20.2	 48.713		7.4	S51514_19	[<a href=./cands/S51514_19_DM19.80_ACCEL_50_ACCEL_Cand_2.pfd.png>prepfold</a>][<a href=./cands/refolds/S51514_19_48.71ms_Cand.pfd.png>refold</a>]	6.1		candidate
+05:02:35.2  -66:25:51.4		194.3	218.093		6.7	S06805_1	[<a href=./cands/S06805_1_DM192.60_ACCEL_50_ACCEL_Cand_2.pfd.png>prepfold</a>][<a href=./cands/refolds/S06805_1_218.09ms_Cand.pfd.png>refold</a>]	6.1		candidate
+17:55:17.8  -42:15:00.0		59.5	 22.420		5.7	S01901_5	[<a href=./cands/S01901_5_DM60.00_ACCEL_50_ACCEL_Cand_1.pfd.png>prepfold</a>][<a href=./cands/refolds/S01901_5_22.42ms_Cand.pfd.png>refold</a>]	6.0		candidate
+
+18:23:40.4  -11:15:07.7         91.3     83.669         6.4     S04408_1        [<a href=./cands/S04408_1_DM91.30_ACCEL_50_ACCEL_Cand_4.pfd.png>prepfold</a>][<a href=./cands/refolds/S04408_1_83.67ms_Cand.png>refold</a>]	6.6		candidate
+
+
+</pre>
+
+
+<p>
+
+<p>
+
+<b> FRB Detections </b>  
+
+<p>
+
+Four FRBs were found in the re-analysis of the PKS70 survey. These were published in 
+<a href=https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.3698C>"Four New Fast Radio Bursts Discovered 
+in the Parkes 70-cm Pulsar Survey Archive"</a> by F. Crawford et al.,
+Monthly Notices of the Royal Astronomical Society, 515, 3698 (2022). 
+See also the <a href=http://venus.fandm.edu/~pulsar/frb/>F&M FRB page</a>. 
+
+<p>
+
+<p>
+
+<h2>Project Participants</h2>
+
+<p>
+
+<font size=2> 
+
+<li> Fronefield Crawford (F&M) 
+<li> Mckenzie Golden (F&M '25) 
+<li> Shinnosuke Hisano (Kumamoto University) 
+<li> Tom Kikunaga (Kumamoto University) 
+<li> Aubrey Laity (Millersville '21) 
+<li> Wenky Xia (F&M '24) 
+<li> Dani Zoeller (F&M '23) 
+
+</font> 
+
+<p> 
+
+<p>
+
+Acknowledgment: This project includes archived data obtained
+through the Australia Telescope Online Archive and the CSIRO 
+Data Access Portal (http://data.csiro.au). This research also 
+used the Franklin and Marshall College compute cluster which was 
+funded through NSF grant 1925192.
+
+<p>
+
+
+

@@ -1,0 +1,204 @@
+<title>Survey Database Information</title>
+
+<h1>Survey Database Information</h1>
+
+<p>
+
+<b>List of EGRET survey targets:</b>
+
+<p>
+
+<ul>
+
+The columns in the ASCII file listing correspond to the following:
+
+<p>
+
+<p>
+
+Column 01: Arbitrary source index number (SNO) <br>
+Column 02: Source catalog (3EG) <br>
+Column 03: EGRET source name from catalog <br>
+Column 04: Target name in survey <br>
+Column 05: J2000 right ascension (deg.) <br>
+Column 06: J2000 declination (deg.) <br> 
+Column 07: Galactic longitude (deg.) <br>
+Column 08: Galactic latitude (deg.) <br>
+Column 09: Maximum expected DM from NE2001 DM-distance model (pc cm-3) <br>
+
+<p>
+
+<li> <a href=./database_files/egret_targets.txt>ASCII listing of EGRET survey targets sorted by name</a>
+
+<li>  <a href=./database_files/egret_targets.xls>A Microsoft Excel spreadsheet of EGRET survey targets</a>
+
+</ul>
+
+<p>
+
+<b>File listings of EGRET survey observations:</b>
+
+<p>
+
+<ul>
+
+The columns in the ASCII file listing correspond to the following: 
+
+<p>
+
+Column 01: Source name (EGRET source) <br>
+Column 02: Filename (.pkmb) of pointing for DVD archive <br>
+Column 03: Tape name of original DLT <br>  
+Column 04: File number on original DLT tape <br>  
+Column 05: Galactic longitude of center beam (deg.) <br> 
+Column 06: Galactic latitude of center beam (deg.) <br> 
+Column 07: Mean Julian Date <br> 
+Column 08: Gregorian date (yymmdd_hhmmss) <br> 
+Column 09: Number of blocks in file <br>
+Column 10: Sample time (ms) <br>  
+Column 11: Freq of top channel in band (MHz) <br>
+Column 12: Channel width (MHz), it's negative! <br>
+Column 13: Number of beams recorded in observation <br> 
+Column 14: Integration time of observation (s) <br>  
+Column 15: Notes 
+
+<p>
+ 
+
+<li> <a href=./database_files/egret_file_listings_by_source.txt>ASCII listing of EGRET survey observations sorted by EGRET source name</a>
+
+<li> <a href=./database_files/egret_file_listings_by_file.txt>ASCII listing of EGRET survey observations sorted by filename (.pkmb)</a>
+
+<li> <a href=./database_files/egret_file_listings.xls>A Microsoft Excel spreadsheet of EGRET survey observations</a>
+
+<p> 
+
+Note: the following pointing was not observed in the survey: G1638d. <br> 
+
+Note: the following pointings were observed twice in the survey: G0439Ad, 
+G1314b, G1457d, G1638c, G1652b,
+G1726a, G1726b, G1726c, G1726d. 
+
+</ul>
+
+<b>Beam position listing of EGRET survey observations:</b> 
+
+<p>
+
+<ul>
+
+The columns in the ASCII beam position listings correspond to the following: 
+
+<p>
+
+Column 01: Filename (.pkmb) of beam <br> 
+Column 02: J2000 right ascension (hh:mm:ss) <br> 
+Column 03: J2000 declination (dd:mm:ss) <br> 
+Column 04: Galactic longitude (deg.) <br> 
+Column 05: Galactic latitude (deg.) <br> 
+
+<p>
+
+<li> <a href=./database_files/egret_beam_positions.txt>ASCII listing of EGRET survey beam positions sorted by filename (.pkmb)</a> <br>
+
+<p>
+
+Note: as of August 1, 2003 this file lists all 3016 beams observed in the 
+survey (100% of total). 
+
+</ul>
+
+<p>
+
+
+
+<b>DM trial listing for EGRET survey observations:</b>
+                                                                                   
+<p>
+                                                                                   
+<ul>
+                                                                                   
+The columns in the ASCII DM trial listings correspond to the following:
+                                                                                   
+<p>
+                                                                                   
+Column 01: DM index of trial (integer) <br>
+Column 02: DM value of trial (pc cm^-3) <br>
+
+<p>
+
+<li> <a href=./database_files/dmlist.index>ASCII listing of DM trials
+for EGRET survey processing</a> <br>
+                                                                                   
+</ul>
+                                                                                   
+<p>
+
+
+<b>Raw data DVD archive:</b>
+
+<ul>
+ 
+Requests for raw survey data may be made to Froney Crawford
+(fcrawfor&#064;fandm.edu).
+
+<p>
+
+Each DVD contains a single survey pointing (in the form of 13 separate
+beam files) and a README file. The size of each beam file is typically
+4102 blocks * 49792 bytes per block = 204246784 bytes (194.8 MB)
+per beam. 
+
+<p>
+
+An example README file looks like this:
+
+<pre> 
+Parkes P406 EGRET Pulsar Survey Raw Data DVD Archive
+
+Author: Fronefield Crawford (crawford&#064;alum.mit.edu)
+see http://cs.haverford.edu/pulsar for more information
+
+Pointing Name:
+
+EGU010_2
+
+Entry in pmobs.db:
+
+@# P406   G1649beg    3.289  17.699 o EGU010 003 52469.427 egunid 40 020714_101440
+   4102   0.125000 1516.500 -3.000 13 2100 
+
+Beam Positions:
+
+FILE              RAJ         DECJ         l       b
+
+EGU010_2_01.pkmb 16:49:54.65 -16:18:11.44 3.289 17.699
+EGU010_2_02.pkmb 16:48:49.77 -16:42:46.31 2.781 17.664
+EGU010_2_03.pkmb 16:47:53.53 -16:16:59.92 3.004 18.101
+EGU010_2_04.pkmb 16:48:58.38 -15:52:26.13 3.512 18.135
+EGU010_2_05.pkmb 16:50:59.25 -15:53:35.37 3.797 17.732
+EGU010_2_06.pkmb 16:51:55.78 -16:19:18.68 3.573 17.297
+EGU010_2_07.pkmb 16:50:51.16 -16:43:55.84 3.067 17.263
+EGU010_2_08.pkmb 16:49:46.20 -17:08:54.09 2.555 17.224
+EGU010_2_09.pkmb 16:46:47.03 -16:41:42.73 2.489 18.068
+EGU010_2_10.pkmb 16:46:56.23 -15:51:00.64 3.226 18.543
+EGU010_2_11.pkmb 16:50:03.02 -15:27:28.80 4.027 18.171
+EGU010_2_12.pkmb 16:53:01.50 -15:54:29.87 4.086 17.327
+EGU010_2_13.pkmb 16:52:53.88 -16:45:12.87 3.351 16.855
+
+Legend:
+
+EGUXXX_Y_ZZ.pkmb
+
+XXX = tape number
+Y   = file number (NOT necessarily the same as the original file on DLT tape)
+ZZ  = beam number
+
+Notes:
+
+This pointing has already been split into 13 separate beams (files)
+using Scott Ransom's split_parkes_beams program.
+</pre> 
+
+</ul>
+
